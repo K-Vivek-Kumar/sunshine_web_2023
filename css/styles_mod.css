@@ -1,0 +1,239 @@
+.text-inner{
+	padding:0 0 20px;
+}
+.text-inter2{
+	padding:20px 0px 0px;
+}
+.box_left{
+	width:45%;
+	float: left;
+}
+.box_right{
+	width:45%;
+	float: right;
+}
+.box_left p, .box_right p{
+	color: #555;
+	font-size: 16px;
+}
+table.contact_table_main{
+	width:60%;
+	margin: 0 auto;
+}
+table.contact_table_main tr td{
+	font-size: 14px;
+	text-align: center;
+}
+table.contact_table_main img{
+	width:200px;
+}
+.details{
+	text-align: center;
+	margin:10px 0px 0 0px;
+	font-weight: normal;
+}
+/*.imageHolder{
+	width:200px;
+	/*height:380px;
+	padding-bottom: 60px;*//*
+}
+/*.imageHolder img{
+	width:150px;
+}*/
+.col-md-6 p{
+	color: #777;
+	/*font-weight: normal;*/
+}
+.blank_space{
+	height:20px;
+}
+
+table.contact_table_faulty{
+	width:100%;
+}
+table.contact_table_faulty tr td{
+	font-size: 14px;
+	text-align: center;
+
+}
+
+.carousel-content p{
+	line-height: 5px;
+}
+
+.carousel-content a:hover{
+	 text-decoration: none;
+}
+
+.logo_img{
+	width:125px;
+	/*height:68px;*/
+	float: left;
+	z-index: 100;
+	position: relative;
+	align-content: center;
+	top:0;
+	/* left:20px; */
+}
+.logo_img img{
+	width:100%;
+	padding-left: 20px;
+	
+	/* padding-bottom:15px;  */
+}
+.logo{
+	width:390px;
+}
+.logo_txt{
+	display: table-cell;
+	vertical-align: bottom;
+	width:200px;
+	float: right;
+	text-align: left;
+	/*padding-left: -10px;*/
+}
+.col-md-6{
+	/*width:400px;*/
+}
+h2.logo-text{
+	font-size: 28px;
+	
+}
+.hero-title{
+	/*color: #000;*/
+	font-size: 24px;
+	font-family: Georgia;
+}
+.col-md-6 p.hero-content{
+	color: #e7e7e7;
+	background: #555;
+}
+
+.article-overlay{
+	color:#fff;
+	padding: 4px 7px;
+	text-align: center;
+}
+.overlay_head{
+	font-size: 17px;
+	text-align: center;
+	font-weight: bold;
+}
+
+table.student_table{
+	width:100%;
+	margin-top: 30px;
+	margin-bottom: 40px;
+}
+table.student_table tr th{
+	padding-left: 70px;
+	padding-bottom: 30px;
+}
+
+.events_block{
+	margin-top: 40px;
+}
+.counsellor-image{
+	width:200px;
+	height: 250px;
+}
+.faculty-row{
+	/*margin-top: 25px;*/
+	text-align: center;
+}
+.faculty-rep{
+	text-align: center;
+	border: 1px solid #804444;
+  	margin-left: 5px;
+  	margin-right: 5px;
+  	border-radius: 7px;
+  	padding-top: 20px;
+  	height: 400px;
+  	display: inline-block;
+  	width: 225px;
+  	margin-top: 25px;
+}
+.student{
+	text-align: center;
+	border: 1px solid #804444;
+  	margin-left: 5px;
+  	margin-right: 5px;
+  	border-radius: 7px;
+  	/*padding-top: 20px;*/
+  	height: 300px;
+  	display: inline-block;
+  	width: 300px;
+  	margin-top: 25px;
+}
+.student.management-team{
+	height: 330px;
+	padding-top:10px;
+}
+.student-img{
+	max-width: 275px;
+	max-height: 183.33px;
+	padding-top:20px;
+	display: inline-block;
+}
+.student-header{
+	margin-bottom:-30px;
+	margin-top: 40px;
+}
+.faculty-dept{
+	font-weight: bold;
+}
+.faculty-image{
+	width: 225px;
+}
+.faculty-image img{
+	width: 200px;
+	max-height: 260px;
+	margin-top: 20px;
+}
+.faculty-rep.less-height{
+	height: 370px;
+	padding-top:0;
+}
+img.slick-slide, div.slick-slide{
+	vertical-align: middle;
+	display: inline-block !important;
+	float: none;
+}
+.abt-slider{
+	display: inline-block;
+}
+.homepage-slider-image{
+	max-height: 100%;
+	max-width: 100%;
+	border: 1px solid grey;
+}
+.homepage-slider-slide{
+	padding: 5px 7.5px 5px 7.5px;
+	/*border-left: 1px solid grey;*/
+}
+.homepage-slick .slick-next::before, .homepage-slick .slick-prev::before{
+	color:black;
+	font-size:50px;
+}
+.homepage-slick .slick-next{
+	right: 25px;
+}
+.homepage-slick .slick-prev{
+	left:25px;
+}
+.homepage-slick .slick-dots li button::before{
+	font-size: 12px;
+}
+.homepage-slick{
+	margin-bottom:50px;
+}
+.announcement{
+	padding: 10px 10px 10px 10px;
+	border-radius: 15px;
+	font-size: large;
+	background: #5f9ea0;
+}
+.article-img img {
+	width: 320px;
+	height: 320px;
+}
