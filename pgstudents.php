@@ -47,15 +47,15 @@ include_once('header.php');
    }
 </style>
 <div class="text-inter team-section">
-   <div class="container">
-      <div class="row justify-content-md-center">
-         <div class=" col-md-12" style="width:100%;">
-         </div>
-      </div>
-   </div>
+  <div class="container">
+     <div class="row">
+        <div class=" col-md-12" style="width:100%;">
+        </div>
+     </div>
+  </div>
 
-   <div class=https://sunshine.iith.ac.in/new-pg.php>
-      <div class="row justify-content-md-center">
+  <div class="container">
+      <div class="row">
          <center>
             <div class="col-md-4 col-sm-12"></div>
 
@@ -64,17 +64,25 @@ include_once('header.php');
                   <h2 class="branch  sm-center"><b>PG Management Head</b></h2>
                </div>
             </div>
-            <center>
-               <div class="col-md-4 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12 ">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team2021/pg/pavan.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>G Pavan Kumar<br>8019840198<br> bm20mtech11001@iith.ac.in
-                  </div>
-               </div>
-            </center>
+            <div class="row ">
+                 <div class="col-md-2 col-sm-12"></div>
+                 <div class="col-md-4 col-sm-12">
+                    <div class="student">
+                       <div class="imageHolder">
+                          <img src="images/team-2022/PG_PHD/IMG_20191117_002103 - NEIL KAMAL DHAMI.jpg" class="student-img img-responsive">
+                       </div>
+                       <br>NEIL KAMAL DHAMI <br>9381738936<br> em18b22m100003@iith.ac.in
+                    </div>
+                 </div>
+                 <div class="col-md-4 col-sm-12 ">
+                    <div class="student">
+                       <div class="imageHolder">
+                          <img src="images/team-2022/PG_PHD/1662280703480 - Sugirtha Gayathri G.jpg" class="student-img img-responsive">
+                       </div>
+                       <br>Sugirtha Gayathri G<br>9842503669<br>  ma20resch11012@iith.ac.in
+                    </div>
+                 </div>
+              </div>
 
             <div class="row justify-content-md-center">
                <div class=" col-md-12  col-sm-12 student-header">
@@ -82,21 +90,45 @@ include_once('header.php');
                </div>
             </div>
             <div class="row ">
+                 <div class="col-md-2 col-sm-12"></div>
+                 <div class="col-md-4 col-sm-12">
+                    <div class="student">
+                       <div class="imageHolder">
+                          <img src="images/team-2022/PG_PHD/vsp pic - ssn fountain - Vishnu Srinivasa Prasad V.jpg" class="student-img img-responsive">
+                       </div>
+                       <br>V Vishnu Srinivasa Prasad <br>9444072590<br> md21mdes14036@iith.ac.in
+                    </div>
+                 </div>
+                 <div class="col-md-4 col-sm-12 ">
+                    <div class="student">
+                       <div class="imageHolder">
+                          <img src="images/team-2022/PG_PHD/IMG_20220903_132100 - Jesna Fathima.jpg" class="student-img img-responsive">
+                       </div>
+                       <br>Jesna Fathima<br>9446645769<br>  ce20resch11008@iith.ac.in
+                    </div>
+                 </div>
+              </div>
+              <div class="row justify-content-md-center">
+               <div class=" col-md-12  col-sm-12 student-header">
+                  <h2 class="branch  sm-center"><b>PG Buddy Heads</b></h2>
+               </div>
+            </div>
+            <div class="row ">
                <div class="col-md-2 col-sm-12"></div>
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/team2021/pg/abhishek.jpg" class="student-img img-responsive">
+                        <img src="images/team-2022/PG_PHD/IMG_20211225_164548__01 - Fathima Shajahan.jpg" class="student-img img-responsive">
                      </div>
-                     <br>Abhishek Dash <br>9439339993<br> bm20mtech11002@iith.ac.in
+                     <br>Fathima Shajahan <br>9447782538<br> bm21mtech14009@iith.ac.in
                   </div>
                </div>
                <div class="col-md-4 col-sm-12 ">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/team2021/pg/ajith.jpg" class="student-img img-responsive">
+                        <img src="images/team-2022/PG_PHD/IMG_20220815_135511 - Suvitti.jpg" class="student-img img-responsive">
                      </div>
-                     <br>Ajith Ramakrishnan<br>9768120579<br>  me20mtech14008@iith.ac.in
+                     <br>Suvitti<br>8901028748<br>  ai21resch11005@iith.ac.in
                   </div>
                </div>
             </div>
@@ -133,7 +165,7 @@ include_once('header.php');
                   <div class="student">
                      <div class="imageHolder">
                         <img src="images\team-2022\Management_Team\IMG_20220815_135511 - Suvitti.jpg" class="student-img img-responsive">
-                     </div>   
+                     </div>
                      <br>Suvitti<br> 8901028748 <br> ai21resch11005@iith.ac.in
                   </div>
                </div>
@@ -434,7 +466,7 @@ include_once('header.php');
                </div>
             </center>
          </div>
-      </div>    
+      </div>
 
       <div class="container">
          <!-- HEADING -->
@@ -443,73 +475,11 @@ include_once('header.php');
                <h1 class="sm-center"><b>PG Buddies</b></h1>
             </div>
          </div>
-         
+
+
          <div class="row justify-content-md-center">
             <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Artificial Intelligence</b></h2>
-            </div>
-         </div>
-         <div class="row justify-content-md-center">
-            <center>
-            <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/Profile Pic - Vimal K B.jpeg" class="student-img img-responsive">
-                     </div>
-                     <br>Vimal K B<br><br> ai20mtech12001@iith.ac.in
-                  </div>
-               </div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/20190316_132102 - Suvitti.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Suvitti<br><br> ai21resch11005@iith.ac.in
-                  </div>
-               </div>
-            </center>
-         </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Climate Change</b></h2>
-            </div>
-         </div>
-         <div class="row justify-content-md-center">
-            <center>
-               <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images\team-2022\Management_Team\dinesh work photo - Dinesh Prabhakaran.jpeg" class="student-img img-responsive">
-                     </div>
-                     <br>Dinesh Prabhakaran<br> 8939004574 <br> cc21resch11002@iith.ac.in
-                  </div>
-               </div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/IMG_1665 - Ivan Isaac.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Ivan Isaac<br><br> bm21mtech14010@iith.ac.in
-                  </div>
-               </div>
-            </center>
-               <div class="col-md-4 col-sm-12"></div>
-            <center>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/Prithvi_Sunshine - G.Prithvi Shankar.png" class="student-img img-responsive">
-                     </div>
-                     <br>G.Prithvi Shankar<br><br> bm21mtech14012@iith.ac.in
-                  </div>
-               </div>
-            </center>
-         </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b></b></h2>
+               <h2 class="branch  sm-center"><b>Biomedical Engineering</b></h2>
             </div>
          </div>
          <div class="row justify-content-md-center">
@@ -518,45 +488,9 @@ include_once('header.php');
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/pg22/IMG_20210312_143430-01 - Ankush Sharma.jpeg" class="student-img img-responsive">
+          <img src="images/team-2022/PG_PHD/IMG_4587 - Arghyadip Bose.jpg" class="student-img img-responsive">
                      </div>
-                     <br>Ankush Sharma<br><br> bo21resch11004@iith.ac.in
-                  </div>
-               </div>
-            </center>
-         </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Civil Engineering</b></h2>
-            </div>
-         </div>
-         <div class="row justify-content-md-center">
-            <center>
-               <div class="col-md-4 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/P170904144 - Akshat Gupta.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Akshat Gupta<br><br> ce21mtech14001@iith.ac.in
-                  </div>
-               </div>
-            </center>
-         </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Computer Science</b></h2>
-            </div>
-         </div>
-         <div class="row justify-content-md-center">
-            <center>
-               <div class="col-md-4 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team-2022/Management_Team/IMG_20220902_114913 - Shubham Gupta.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Shubham Gupta<br> 8420443964 <br> cs21mtech14001@iith.ac.in
+ <br>Arghyadip Bose<br>8910159760<br> bm21mtech11002@iith.ac.in
                   </div>
                </div>
             </center>
@@ -572,16 +506,52 @@ include_once('header.php');
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/pg22/WhatsApp Image 2021-09-16 at 20.11.01 - MD Shabeeb.jpeg" class="student-img img-responsive">
+          <img src="images/team-2022/PG_PHD/IMG_20220901_003251_846 - Abhishek R Varma.jpg" class="student-img img-responsive">
                      </div>
-                     <br>Muhammed Shabeeb Ap<br><br> cy20resch11006@iith.ac.in
+ <br>Abhishek R Varma<br>9947817444<br> ch22resch01001@iith.ac.in
                   </div>
                </div>
             </center>
          </div>
+         <div class="row">
+         <div class=" col-md-12  col-sm-12 student-header">
+            <h1 align="center"><b>Computer Science</b></h1>
+         </div>
+      </div>
+      <!-- FIRST ROW -->
+      <div class="row">
+         <center>
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+                  <div class="imageHolder">
+                     <img src="images/team-2022/PG_PHD/IMG20220811223549 - Sankalp Mittal.jpg" class="student-img img-responsive">
+                  </div>
+                <br>Sankalp Mittal<br>7729833950<br> cs21mtech12010@iith.ac.in
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+                  <div class="imageHolder">
+        <img src="images/team-2022/PG_PHD/Vaasudev.jpeg" class="student-img img-responsive">
+                  </div>
+                <br>Vaasudev Narayanan <br>7488275371<br> cs20mtech11001@iith.ac.in
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+
+                  <div class="imageHolder">
+                     <img src="images/team-2022/PG_PHD/20220414_142533 - Gajesh Sailesh Kumar.jpg" class="student-img img-responsive">
+                  </div>
+                 <br>Gajesh S<br>9445337904<br> Cs21mtech11003@iith.ac.in
+               </div>
+            </div>
+         </center>
+      </div>
+
          <div class="row justify-content-md-center">
             <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Electrical Engineering</b></h2>
+               <h2 class="branch  sm-center"><b>E-Waste Resource Engineering and Management</b></h2>
             </div>
          </div>
          <div class="row justify-content-md-center">
@@ -590,16 +560,17 @@ include_once('header.php');
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/pg22/0E0003B7-E28F-47F1-AA30-6F767103E74D - Poludasu Sahaan.jpeg" class="student-img img-responsive">
+          <img src="images/team-2022/PG_PHD/aIMG_20210222_181320 - Bhupendra Gehlot.jpg" class="student-img img-responsive">
                      </div>
-                     <br>Poludasu Sahaan<br><br> ee20mtech14003@iith.ac.in
+                <br>Bhupendra Gehlot <br>7999413118<br> ew21mtech11005@iith.ac.in
                   </div>
                </div>
             </center>
          </div>
+
          <div class="row justify-content-md-center">
             <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Mathematics</b></h2>
+               <h2 class="branch  sm-center"><b>Liberal Arts</b></h2>
             </div>
          </div>
          <div class="row justify-content-md-center">
@@ -609,159 +580,40 @@ include_once('header.php');
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/pg22/SAVE_20200916_223650 - PRIYANKA PRIYANKA.jpg" class="student-img img-responsive">
+        <img src="images/team-2022/PG_PHD/SquareFit_20210612_16353226 - PRACHI SHARMA.jpg" class="student-img img-responsive">
                      </div>
-                     <br>Sugirtha Gayathri G<br> 9842503669 <br> ma20resch11012@iith.ac.in
+                             <br>Prachi Sharma<br>7506480877<br> la21resch01002@iith.ac.in
                   </div>
                </div>
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/pg22/IMG_20220108_230304 - Shrishti Agarwal.jpg" class="student-img img-responsive">
+              <img src="images/team-2022/PG_PHD/IMG_20220904_193547 - Swathy Sathyapal.jpg" class="student-img img-responsive">
                      </div>
-                     <br>Shrishti Agarwal<br><br> ma21mscst11006@iith.ac.in
+                                   <br>Swathy Sathyapal<br>8281973736<br> la22resch01004@iith.ac.in
                   </div>
                </div>
             </center>
          </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Design</b></h2>
-            </div>
+      </div>
+      <div class="row justify-content-md-center">
+         <div class=" col-md-12  col-sm-12 student-header">
+            <h2 class="branch  sm-center"><b>Mathematics</b></h2>
          </div>
-         <div class="row justify-content-md-center">
-            <center>
-               <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/vsp pic - Vishnu Srinivasa Prasad V.JPG" class="student-img img-responsive">
-                     </div>
-                     <br>V Vishnu Srinivasa Prasad<br><br> md21mdes14036@iith.ac.in
-                  </div>
-               </div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/IMG_20210210_140339__01 - Pouravi Vijay Jundre.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Pouravi Jundre <br><br> md21mdes14013@iith.ac.in
-                  </div>
-               </div>
-            </center>
+      </div>
+      <div class="row justify-content-md-center">
+         <center>
             <div class="col-md-4 col-sm-12"></div>
-            <center>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/DSC_0073 - Sanu Kumar.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Sanu Kumar<br><br> md21mdes14001@iith.ac.in
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+                  <div class="imageHolder">
+<img src="images/team-2022/PG_PHD/photo - Mohan Rahul N.jpg" class="student-img img-responsive">
                   </div>
+                     <br>Mohana Rahul N<br>9488943085<br> ma20resch11003@iith.ac.in
                </div>
-            </center>
-         </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Mechanical Engineering</b></h2>
             </div>
-         </div>
-         <div class="row justify-content-md-center">
-            <center>
-               <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team-2022/Management_Team/20220609_183628 - Vishwaja P.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Vishwaja P<br> 7893707150 <br> me21mtech11004@iith.ac.in
-                  </div>
-               </div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/IMG_20220109_115625 - Prakash Laxman Varkol.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Prakash Laxman Varkol<br><br> me20mtech11004@iith.ac.in
-                  </div>
-               </div>
-            </center>
-            <div class="col-md-4 col-sm-12"></div>
-               <center>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/image - Sagar Mulani.jfif" class="student-img img-responsive">
-                     </div>
-                     <br>Sagar Mulani<br><br> me20mtech14003@iith.ac.in
-                  </div>
-               </div>
-            </center>
-         </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Materials Science</b></h2>
-            </div>
-         </div>
-         <div class="row justify-content-md-center">
-            <center>
-               <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team-2022/Management_Team/IMG_20210815_104528029_HDR - Arka Jyoti Roy.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Arka Jyoti Roy<br> 8272901195 <br> ms20resch11005@iith.ac.in
-                  </div>
-               </div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/NEHA_BAGANE_PHOTO - Neha Vinay Bagane.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Neha Bagane<br><br> ms21mtech14002@iith.ac.in
-                  </div>
-               </div>
-               </center>
-               <div class="col-md-4 col-sm-12"></div>
-               <center>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/pg22/Yaswanth R - Yaswanth R.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>YASWANTH R<br><br> ms20mtech14003@iith.ac.in
-                  </div>
-               </div>
-            </center>
-         </div>
-         <div class="row justify-content-md-center">
-            <div class=" col-md-12  col-sm-12 student-header">
-               <h2 class="branch  sm-center"><b>Medical Device Innovation</b></h2>
-            </div>
-         </div>
-         <div class="row justify-content-md-center">
-            <center>
-               <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images\team-2022\Management_Team\me - Vaibhav Arun Rachalwar.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Vaibhav Rachalwar<br> 7304305519 <br> mi21mtech14004@iith.ac.in
-                  </div>
-               </div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images\team-2022\Management_Team\Professional Photo_page-0001 - Subhranil Roy.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Subhranil Roy<br> 9163755873 <br> mi21mtech11003@iith.ac.in
-                  </div>
-               </div>
-            </center>
-         </div>
-      </div> 
+         </center>
+      </div>
    </div>
 </div>
 <script src="//sunshine.iith.ac.in/Infusion WP Theme_files/jquery.min.js"></script>
