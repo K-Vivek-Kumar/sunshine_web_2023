@@ -150,12 +150,12 @@ include_once ('header.php');
 							Chemical Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/ch19.jpg" />
+							<img src="images/faculty/WhatsApp Image 2022-09-08 at 10.39.10 AM.jpeg" />
 						</div>
 						<div class="details">
-							Dr. Satyavrata Samavedi
+						Dr. Santhosh Kumar Devarai
 							<br>
-							samavedi@che.iith.ac.in
+							devarai@che.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -184,7 +184,7 @@ include_once ('header.php');
 							Chemistry
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/cy19.png" />
+							<img src="images/faculty/SMAJI - Somnath Maji.jpeg" />
 						</div>
 						<div class="details">
 							Dr. Somnath Maji<br>
@@ -214,7 +214,7 @@ include_once ('header.php');
 							Computer Science and Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/cs19.jpg" />
+							<img src="images/faculty/Rogers-Mathew - Rogers Mathew.jpeg" />
 						</div>
 						<div class="details">
 							Dr Rogers Mathew
@@ -248,7 +248,7 @@ include_once ('header.php');
 							Electrical Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/koushik_nayak.jpg" />
+							<img src="images/faculty/IMG_0108 - K Nayak.jpeg" />
 						</div>
 						<div class="details">
 							Dr. Kaushik Nayak<br>
@@ -295,7 +295,7 @@ include_once ('header.php');
 							Liberal Arts
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/la19.jpg" />
+							<img src="images/faculty/IMG_20220905_173924 - Shuhita Bhattacharjee.jpeg" />
 						</div>
 						<div class="details">
 							Dr. Shuhita Bhattacharjee
@@ -311,7 +311,7 @@ include_once ('header.php');
 							Liberal Arts
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/Mahati_Chittem.jpg" />
+							<img src="images/faculty/2012-12-12 20.49.38 - Mahati Chittem.jpg" />
 						</div>
 						<div class="details">
 							Dr. Mahati Chittem
@@ -377,7 +377,7 @@ include_once ('header.php');
 							Physics
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/ph19.jpg" />
+							<img src="images/faculty/pic_independence_day_2022 - Arabinda Haldar.jpeg" />
 						</div>
 						<div class="details">
 							Dr. Arabinda Haldar

@@ -178,13 +178,23 @@ include_once('header.php');
          </div>
          <div class="row justify-content-md-center">
             <center>
-            <div class="col-md-4 col-sm-12"></div>
+               <div class="col-md-2 col-sm-12"></div>
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
                         <img src="images\team-2022\Management_Team\Aslam Ahmed (cropped) - Aslam Ahmed.jpg" class="student-img img-responsive">
+                        <!-- <img src="images\team-2022\Management_Team\IITH - Arvind Roshaan.jpeg" class="student-img img-responsive"> -->
                      </div>
                      <br>Aslam Ahmed <br> 9597755200 <br> bm21mtech11007@iith.ac.in
+                     <!-- <br>Arvind Roshaan<br> 9998430495 <br> ai21mtech12004@iith.ac.in -->
+                  </div>
+               </div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <img src="images/team-2022/Management_Team/IMG_20220805_211601_3 - Aswathy Vijay.jpeg" class="student-img img-responsive">
+                     </div>
+                     <br>Aswathy Vijay <br>8547406450 <br> bm18resch11018@iith.ac.in
                   </div>
                </div>
             </center>
@@ -194,36 +204,52 @@ include_once('header.php');
                <h2 class="branch  sm-center"><b>Chemistry</b></h2>
             </div>
          </div>
+         
          <div class="row justify-content-md-center">
             <center>
-               <!-- <div class="col-md-4 col-sm-12"></div> -->
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images\team-2022\Management_Team\SAVE_20220802_242047 - Shivam Shrivastava.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Shivam Shrivastava<br> 9630901744 <br> cy21mscst11028@iith.ac.in
-                  </div>
-               </div>
+               <div class="col-md-2 col-sm-12"></div>
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
                         <img src="images\team-2022\Management_Team\IMG_20211213_234810 - Ankita Paul.jpg" class="student-img img-responsive">
+                        <!-- <img src="images\team-2022\Management_Team\IITH - Arvind Roshaan.jpeg" class="student-img img-responsive"> -->
                      </div>
                      <br>Ankita Paul<br> 9647146397 <br> cy21resch11008@iith.ac.in
+                     <!-- <br>Arvind Roshaan<br> 9998430495 <br> ai21mtech12004@iith.ac.in -->
                   </div>
                </div>
-               <center>
-               <div class="col-md-4 col-sm-12"></div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <!-- <img src="images\team-2022\Management_Team\IMG_20220815_135511 - Suvitti.jpg" class="student-img img-responsive"> -->
+                        <img src="images\team-2022\Management_Team\SAVE_20220802_242047 - Shivam Shrivastava.jpg" class="student-img img-responsive">
+                     </div>
+                     <br>Shivam Shrivastava<br> 9630901744 <br> cy21mscst11028@iith.ac.in
+                     <!-- <br>Suvitti<br> 8901028748 <br> ai21resch11005@iith.ac.in -->
+                  </div>
+               </div>
+            </center>
+         </div><div class="row justify-content-md-center">
+            <center>
+               <div class="col-md-2 col-sm-12"></div>
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
                         <img src="images\team-2022\Management_Team\IMG-20220309-WA0013_resized - SAI RACHANA PRAMATHA.jpg" class="student-img img-responsive">
+                        <!-- <img src="images\team-2022\Management_Team\IITH - Arvind Roshaan.jpeg" class="student-img img-responsive"> -->
                      </div>
+                     <!-- <br>Arvind Roshaan<br> 9998430495 <br> ai21mtech12004@iith.ac.in -->
                      <br>Sai Rachana<br> 7018627302 <br> cy21resch11002@iith.ac.in
                   </div>
                </div>
-            </center>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <img src="images/team-2022/Management_Team/Ankush De - Ankush De.jpeg" class="student-img img-responsive">
+                     </div>
+                     <br>Ankush De<br>9475325819 <br>cy21mscst11008@iith.ac.in
+                  </div>
+               </div>
             </center>
          </div>
          <div class="row justify-content-md-center">
@@ -277,13 +303,24 @@ include_once('header.php');
          </div>
          <div class="row justify-content-md-center">
             <center>
-            <div class="col-md-4 col-sm-12"></div>
+            
+               <div class="col-md-2 col-sm-12"></div>
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
                         <img src="images\team-2022\Management_Team\20220828_172253 - Ananda Krishnan.jpg" class="student-img img-responsive">
+                        <!-- <img src="images\team-2022\Management_Team\IMG_20220106_174919_427~2 - Shubham Sharma.jpg" class="student-img img-responsive"> -->
                      </div>
                      <br>Ananda Krishnan<br> 9037966096 <br> la21resch11007@iith.ac.in
+                     <!-- <br>Shubham Sharma<br> 7500516601 <br> ew21mtech14001@iith.ac.in -->
+                  </div>
+               </div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <img src="images/team-2022/Management_Team/IMG_20210715_154923 - Shraddha Pradip Namjoshi.jpeg" class="student-img img-responsive">
+                     </div>
+                     <br>Shraddha Namjoshi <br> 7387707779 <br> la22resch01003@iith.ac.in
                   </div>
                </div>
             </center>
@@ -313,23 +350,36 @@ include_once('header.php');
          </div>
          <div class="row justify-content-md-center">
             <center>
-               <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images\team-2022\Management_Team\IMG_20210731_182044 - Arul Raj N.jpg" class="student-img img-responsive">
-                     </div>
-                     <br>Arul Raj Natarajan<br> 8925287817 <br> ph19resch11009@iith.ac.in
-                  </div>
-               </div>
+              
                <div class="col-md-4 col-sm-12">
                   <div class="student">
                      <div class="imageHolder">
                         <img src="images\team-2022\Management_Team\Untitled design (1) Cropped (2) - Ritesh Kumar.png" class="student-img img-responsive">
+                        <!-- <img src="images/team-2022/PG_PHD/IMG20220811223549 - Sankalp Mittal.jpg" class="student-img img-responsive"> -->
                      </div>
+                     <!-- <br>Sankalp Mittal<br>7729833950<br> cs21mtech12010@iith.ac.in -->
                      <br>Ritesh Kumar<br> 9467585391 <br> ph21mscst11022@iith.ac.in
                   </div>
                </div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <!-- <img src="images/team-2022/PG_PHD/Vaasudev.jpeg" class="student-img img-responsive"> -->
+                        <img src="images\team-2022\Management_Team\IMG_20210731_182044 - Arul Raj N.jpg" class="student-img img-responsive">
+                     </div>
+                     <!-- <br>Vaasudev Narayanan <br>7488275371<br> cs20mtech11001@iith.ac.in -->
+                     <br>Arul Raj Natarajan<br> 8925287817 <br> ph19resch11009@iith.ac.in
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+
+                  <div class="imageHolder">
+                     <img src="images/team-2022/Management_Team/Kartik-Photo - Kartik Kalia.jpeg" class="student-img img-responsive">
+                  </div>
+                 <br>Kartik Kalia<br>8219274069<br> ph21mscst11010@iith.ac.in
+               </div>
+            </div>
             </center>
          </div>
          <div class="row justify-content-md-center">

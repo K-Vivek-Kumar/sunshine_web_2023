@@ -98,6 +98,7 @@ $title="Sunshine | IIT Hyderabad";
                   <p>Sr. Psychological Counsellor</p>
                   <p>maria.morris@admin.iith.ac.in</p>
                   <p>+91-8331036081</p>
+                  <p><u>Office Address: </u></p><p>A4 - Aryabhatta block</p>
                </div>
             </a>
          </div>
@@ -114,7 +115,8 @@ $title="Sunshine | IIT Hyderabad";
                   <p>Psychological Counsellor</p>
                   <p>Clinical Psychologist</p>
                   <p>yukti.rastogi@admin.iith.ac.in</p>
-                  <p></p>
+                  <p>+91-8331036080</p>
+                  <p><u>Office Address: </u>  </p><p>112/a - Academic Block C</p>
                </div>
             </a>
          </div>
@@ -132,6 +134,7 @@ $title="Sunshine | IIT Hyderabad";
                   <p>Psychological Counsellor</p>
                   <p>phani.bhushan@admin.iith.ac.in</p>
                   <p>+91-8331036082</p>
+                  <p><u>Office Address: </u>  </p><p> G5 - Brahmagupta Hostel Block</p>
                </div>
             </a>
          </div>
