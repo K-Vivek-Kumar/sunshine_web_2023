@@ -599,6 +599,24 @@ include_once('header.php');
          </center>
       </div>
 
+      <div class="row justify-content-md-center">
+            <div class=" col-md-12  col-sm-12 student-header">
+               <h2 class="branch  sm-center"><b>Chemistry</b></h2>
+            </div>
+         </div>
+         <div class="row justify-content-md-center">
+            <center>
+               <div class="col-md-4 col-sm-12"></div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+          <img src="images/team-2022/PG_PHD/IMG_9177 - Rushabh Nanji Chheda.CR2" class="student-img img-responsive">
+                     </div>
+                <br>Rushabh Chheda  <br>9819182782<br>cy22mscst11028@iith.ac.in      </div>
+               </div>
+            </center>
+         </div>
+
          <div class="row justify-content-md-center">
             <div class=" col-md-12  col-sm-12 student-header">
                <h2 class="branch  sm-center"><b>E-Waste Resource Engineering and Management</b></h2>
@@ -646,6 +664,7 @@ include_once('header.php');
             </center>
          </div>
       </div>
+      
       <div class="row justify-content-md-center">
          <div class=" col-md-12  col-sm-12 student-header">
             <h2 class="branch  sm-center"><b>Mathematics</b></h2>
@@ -665,6 +684,78 @@ include_once('header.php');
          </center>
       </div>
    </div>
+   <div class="row justify-content-md-center">
+            <div class=" col-md-12  col-sm-12 student-header">
+               <h2 class="branch  sm-center"><b>Polymer and Biosystems</b></h2>
+            </div>
+         </div>
+         <div class="row justify-content-md-center">
+            <center>
+               <div class="col-md-4 col-sm-12"></div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+          <img src="images/team-2022/PG_PHD/IMG_20230119_103656_514 (1) - Nishant Bagoria.jpg" class="student-img img-responsive">
+                     </div>
+                <br>Nishant <br>7285001235<br> pb22mtech11001@iith.ac.in
+                  </div>
+               </div>
+            </center>
+         </div>
+         
+         <div class="row">
+         <div class=" col-md-12  col-sm-12 student-header">
+            <h1 align="center"><b>Physics</b></h1>
+         </div>
+      </div>
+         <div class="row">
+         <center>
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+                  <div class="imageHolder">
+                     <img src="images/team-2022/PG_PHD/IMG-20221229-WA0104 - Akansha Sharma.jpg" class="student-img img-responsive">
+                  </div>
+                <br>Akansha Sharma <br>8171496855<br> ph22mscst11010@iith.ac.in
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+                  <div class="imageHolder">
+        <img src="images/team-2022/PG_PHD/IMG_20220602_174153 - Yashwant Kumar.jpg" class="student-img img-responsive">
+                  </div>
+                <br>Yashwant Kumar  <br>7999371229<br> ph22mscst11014@iith.ac.in
+               </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+               <div class="student">
+
+                  <div class="imageHolder">
+                     <img src="images/team-2022/PG_PHD/IMG_20230119_115429 - Khushi Lalit.jpg" class="student-img img-responsive">
+                  </div>
+                 <br>Khushi Lalit <br>8171404140<br> ph22mscst11019@iith.ac.in
+               </div>
+            </div>
+         </center>
+      </div>
+         
+         <div class="row justify-content-md-center">
+            <div class=" col-md-12  col-sm-12 student-header">
+               <h2 class="branch  sm-center"><b>SMART MOBILITY</b></h2>
+            </div>
+         </div>
+         <div class="row justify-content-md-center">
+            <center>
+               <div class="col-md-4 col-sm-12"></div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+          <img src="images/team-2022/PG_PHD/44444444 - Sai Sathwik Kota.jpg" class="student-img img-responsive">
+                     </div>
+                <br>Sai Sathwik Kota <br>6281661881<br> SM22MTECH12002@IITH.AC.IN
+                  </div>
+               </div>
+            </center>
+         </div>
 </div>
 <script src="//sunshine.iith.ac.in/Infusion WP Theme_files/jquery.min.js"></script>
 <script src="//sunshine.iith.ac.in/Infusion WP Theme_files/bootstrap.min.js"></script>
