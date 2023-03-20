@@ -120,3 +120,8 @@
     }
 
 }
+@media only screen and (max-width : 375px) {  
+    .fa{
+        line-height: 2px;
+    }
+    }

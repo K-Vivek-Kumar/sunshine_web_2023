@@ -61,7 +61,7 @@ include_once('header.php');
 
             <div class="row justify-content-md-center">
                <div class=" col-md-12  col-sm-12 student-header">
-                  <h2 class="branch  sm-center"><b>PG Management Head</b></h2>
+                  <h2 class="branch  sm-center"><b>PG/PhD Management Head</b></h2>
                </div>
             </div>
             <div class="row ">
@@ -86,7 +86,7 @@ include_once('header.php');
 
             <div class="row justify-content-md-center">
                <div class=" col-md-12  col-sm-12 student-header">
-                  <h2 class="branch  sm-center"><b>PG Mentorship Heads</b></h2>
+                  <h2 class="branch  sm-center"><b>PG/PhD Mentorship Heads</b></h2>
                </div>
             </div>
             <div class="row ">
@@ -110,7 +110,7 @@ include_once('header.php');
               </div>
               <div class="row justify-content-md-center">
                <div class=" col-md-12  col-sm-12 student-header">
-                  <h2 class="branch  sm-center"><b>PG Buddy Heads</b></h2>
+                  <h2 class="branch  sm-center"><b>PG/PhD Buddy Heads</b></h2>
                </div>
             </div>
             <div class="row ">
@@ -142,7 +142,7 @@ include_once('header.php');
          <!-- HEADING -->
          <div class="row justify-content-md-center">
             <div class=" col-md-12 col-sm-12 student-header">
-               <h1 class="sm-center"><b>PG Mentors</b></h1>
+               <h1 class="sm-center"><b>PG/PhD Mentors</b></h1>
             </div>
          </div>
          <div class="row justify-content-md-center">
@@ -522,7 +522,7 @@ include_once('header.php');
          <!-- HEADING -->
          <div class="row justify-content-md-center">
             <div class=" col-md-12 col-sm-12 student-header">
-               <h1 class="sm-center"><b>PG Buddies</b></h1>
+               <h1 class="sm-center"><b>PG/PhD Buddies</b></h1>
             </div>
          </div>
 

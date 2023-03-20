@@ -1320,7 +1320,7 @@ include_once('header.php');
                                         </div>
                                     </div>
                                     <div class="row">
-                                        <div class=" col-md-2 col-sm-12  "></div>
+                                        <!-- <div class=" col-md-2 col-sm-12  "></div> -->
                                         <div class=" col-md-4 col-sm-12  ">
                                             <div class="student">
                                                 <div class="imageHolder">
@@ -1340,10 +1340,6 @@ include_once('header.php');
                                                 ee21btech11043@iith.ac.in
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-12"></div>
-                                    </div>
-                                    <div class="row">
-                                        <div class=" col-md-2 col-sm-12  "></div>
                                         <div class=" col-md-4 col-sm-12  ">
                                             <div class="student">
                                                 <div class="imageHolder">
@@ -1353,6 +1349,16 @@ include_once('header.php');
                                                 <br>Rohit Shaha<br> 8319707706 <br> ee21btech11046@iith.ac.in
                                             </div>
                                         </div>
+                                        <!-- <div class="col-md-2 col-sm-12"></div> -->
+                                    </div>
+                                    <div class="row">
+                                        <!-- <div class=" col-md-2 col-sm-12  "></div> -->
+                                       
+                                      
+                                        <div class="col-md-2 col-sm-12"></div>
+                                    </div>
+                                    <div class="row">
+                                        <!-- <div class=" col-md-2 col-sm-12  "></div> -->
                                         <div class=" col-md-4 col-sm-12  ">
                                             <div class="student">
                                                 <div class="imageHolder">
@@ -1362,10 +1368,6 @@ include_once('header.php');
                                                 <br>Satvik Bejugam<br> 7032582490 <br> ee21btech11051@iith.ac.in
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-12"></div>
-                                    </div>
-                                    <div class="row">
-                                        <div class=" col-md-2 col-sm-12  "></div>
                                         <div class=" col-md-4 col-sm-12  ">
                                             <div class="student">
                                                 <div class="imageHolder">
@@ -1385,10 +1387,10 @@ include_once('header.php');
                                                 ee22btech11012@iith.ac.in
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-12"></div>
+                                        <!-- <div class="col-md-2 col-sm-12"></div> -->
                                     </div>
                                     <div class="row">
-                                        <div class=" col-md-2 col-sm-12  "></div>
+                                        <!-- <div class=" col-md-2 col-sm-12  "></div> -->
                                         <div class=" col-md-4 col-sm-12  ">
                                             <div class="student">
                                                 <div class="imageHolder">
@@ -1408,10 +1410,6 @@ include_once('header.php');
                                                 ee22btech11005@iith.ac.in
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-12"></div>
-                                    </div>
-                                    <div class="row">
-                                        <div class=" col-md-2 col-sm-12  "></div>
                                         <div class=" col-md-4 col-sm-12  ">
                                             <div class="student">
                                                 <div class="imageHolder">
@@ -1421,6 +1419,11 @@ include_once('header.php');
                                                 <br>Tanmay Vishwasrao<br> 9923626782 <br> ee22btech11053@iith.ac.in
                                             </div>
                                         </div>
+                                        <!-- <div class="col-md-2 col-sm-12"></div> -->
+                                    </div>
+                                    <div class="row">
+                                        <div class=" col-md-2 col-sm-12  "></div>
+                                       
                                         <div class=" col-md-4 col-sm-12  ">
                                             <div class="student">
                                                 <div class="imageHolder">
@@ -1431,13 +1434,7 @@ include_once('header.php');
                                                 ee22btech11028@iith.ac.in
                                             </div>
                                         </div>
-                                        <div class="col-md-2 col-sm-12"></div>
-                                    </div>
-                                        <div class="row">
-                                            <div class=" col-md-4 col-sm-12  ">
-
-                                            </div>
-                                            <div class=" col-md-4 col-sm-12  ">
+                                        <div class=" col-md-4 col-sm-12  ">
                                                 <div class="student">
                                                     <div class="imageHolder">
                                                         <img src="images\team-2022\UG_Buddies\PXL_20230120_171946873_2 - Bommineni Gunethra.jpg"
@@ -1446,9 +1443,12 @@ include_once('header.php');
                                                     <br>Bommineni Gunethra<br>9000479184<br>ee22btech11025@iith.ac.in
                                                 </div>
                                             </div>
-                                            <div class=" col-md-4 col-sm-12  ">
-
-                                            </div>
+                                        <div class="col-md-2 col-sm-12"></div>
+                                    </div>
+                                        <div class="row">
+                                            <div class=" col-md-4 col-sm-12  "> </div>
+                                           
+                                            <div class=" col-md-4 col-sm-12  ">  </div>
 
                                         <!-- EP -->
                                         <div class="row">
