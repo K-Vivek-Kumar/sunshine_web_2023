@@ -997,7 +997,7 @@ include_once('header.php');
 
 </div>
 
-                    <!-- UG BUDDIES -->
+   <!-- UG BUDDIES -->
                     <div class="container">
                         <!-- HEADING -->
                         <div class="row">
@@ -1045,43 +1045,6 @@ include_once('header.php');
                             <div class=" col-md-4 col-sm-12  "></div>
                         </div>
 
-                        <!--BME-->
-
-                        <div class="row">
-                            <div class=" col-md-12 col-sm-12 student-header">
-                                <h2 class="branch sm-center"><b>Biomedical Engineering</b></h2>
-                            </div>
-                        </div>
-                        <div class="row">
-                            <div class=" col-md-4 col-sm-12  ">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images\team-2022\UG_Buddies\Abhay Goyal.jpeg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>Abhay goyal <br> 6260284389 <br> bm22btech11001@iith.ac.in
-                                </div>
-                            </div>
-                            <div class=" col-md-4 col-sm-12  ">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images\team-2022\UG_Buddies\IMG_20230106_124519_622 - Arin Parag Kulkarni.jpg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>Arin Kulkarni <br> 9420749375 <br> bm22btech11003@iith.ac.in 
-                                </div>
-                            </div>
-                            <div class=" col-md-4 col-sm-12  ">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images\team-2022\UG_Buddies\524D792C-586D-49D8-B9AE-A39769DCFF3E - Arsh Arora.jpeg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>Arsh Arora<br> 7999224011 <br> bm22btech11004@iith.ac.in
-                                </div>
-                            </div>
-                        </div>
-
                         <!--CE-->
                         <div class="row">
                             <div class=" col-md-12 col-sm-12 student-header">
@@ -1117,59 +1080,6 @@ include_once('header.php');
                                 </div>
                             </div>
                         </div>
-
-                        <div class="row">
-                            <div class=" col-md-4 col-sm-12  ">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images\team-2022\UG_Buddies\2022-03-23 002 - Kanchanapally Sri Varshini.jpg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br> K sri varshini  <br> 6301481867 <br> Ce22btech11026@iith.ac.in 
-                                </div>
-                            </div>
-                            <div class=" col-md-4 col-sm-12  ">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images\team-2022\UG_Buddies\P Ishwarya.jpeg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>P. Ishwarya<br> 7670929552 <br> ce22btech11039@iith.ac.in
-                                </div>
-                            </div>
-                            <div class=" col-md-4 col-sm-12  ">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images/team-2022/UG_Buddies/IMG-20230112-WA0002_2 - Udit Dutta.jpg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>Udit Dutta<br> 9954200701 <br> ce22btech11049@iith.ac.in
-                                </div>
-                            </div>
-                        </div>
-
-                        <div class="row">
-                                <div class=" col-md-2 col-sm-12  "></div>
-                                <div class=" col-md-4 col-sm-12  ">
-                                    <div class="student">
-                                        <div class="imageHolder">
-                                            <img src="images\team-2022\UG_Buddies\Photo from Vaishnavi - Vaishanavi Goswami.jpg"
-                                                class="student-img img-responsive">
-                                        </div>
-                                        <br>Vaishnavi Goswami <br> 6307789081 <br> ce22btech11051@iith.ac.in
-                                    </div>
-                                </div>
-                                <div class=" col-md-4 col-sm-12  ">
-                                    <div class="student">
-                                        <div class="imageHolder">
-                                            <img src="images\team-2022\UG_Buddies\DSC_0025a - Vignesh.jpg"
-                                                class="student-img img-responsive">
-                                        </div>
-                                        <br>VIGNESH <br> 7645826626 <br> ce22btech11055@iith.ac.in
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-sm-12"></div>
-                            </div>
 
                         <!--CHE-->
                         <div class="row">
@@ -1219,29 +1129,6 @@ include_once('header.php');
                                                 class="student-img img-responsive">
                                         </div>
                                         <br>Rishitha Surishetty<br> 8074801959 <br> ch21btech11030@iith.ac.in
-                                    </div>
-                                </div>
-                                <div class="col-md-2 col-sm-12"></div>
-                            </div>
-
-                            <div class="row">
-                                <div class=" col-md-2 col-sm-12  "></div>
-                                <div class=" col-md-4 col-sm-12  ">
-                                    <div class="student">
-                                        <div class="imageHolder">
-                                            <img src="images\team-2022\UG_Buddies\Madhurima.jpeg"
-                                                class="student-img img-responsive">
-                                        </div>
-                                        <br>Madhurima chundu <br> 8297260216 <br> ch22btech11010@iith.ac.in
-                                    </div>
-                                </div>
-                                <div class=" col-md-4 col-sm-12  ">
-                                    <div class="student">
-                                        <div class="imageHolder">
-                                            <img src="images\team-2022\UG_Buddies\Passport size pic - Vainavi Suraj Gawde.jpg"
-                                                class="student-img img-responsive">
-                                        </div>
-                                        <br>Vainavi Gawde <br> 7021627008 <br> ch22btech11037@iith.ac.in
                                     </div>
                                 </div>
                                 <div class="col-md-2 col-sm-12"></div>
@@ -1597,6 +1484,18 @@ include_once('header.php');
                                                     <br>Krishna Nikhil Kota<br> 6301095700 <br>ep21btech11016@iith.ac.in
                                                 </div>
                                             </div>
+                                            
+                                            <div class=" col-md-4 col-sm-12  "></div>
+
+                                            <div class=" col-md-4 col-sm-12  ">
+                                                <div class="student">
+                                                    <div class="imageHolder">
+                                                        <img src="images\team-2022\UG_Buddies\IMG_20221014_155104 - Sreevas T M.jpg"
+                                                            class="student-img img-responsive">
+                                                    </div>
+                                                    <br>Sreevas TM<br> 8610808854<br>ep22btech11025@iith.ac.in
+                                                </div>
+                                            </div>
                                             <!--ES-->
                                             <div class="row">
                                                 <div class=" col-md-12 col-sm-12 student-header">
@@ -1649,6 +1548,79 @@ include_once('header.php');
                                                             es21btech11022@iith.ac.in
                                                         </div>
                                                     </div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-2 col-sm-12"></div>
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\Devansh DP - Devansh Agrawal.jpg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Devansh Agrawal<br> 9667236662 <br>
+                                                            es22btech11010@iith.ac.in
+                                                        </div>
+                                                    </div>
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\20230117_101259 - Kadam Prathamesh Ravindra.jpg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Prathamesh Kadam<br> 7276241531 <br>
+                                                            es22btech11020@iith.ac.in
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-12"></div>
+                                                </div>
+                                                <div class="row">
+                                                    <div class="col-md-2 col-sm-12"></div>
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\088990EB_IMG_3027~3 - Gogineni Yashmitha.jpg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Yashmitha Gogineni<br> 8851947851 <br>
+                                                            es22btech11014@iith.ac.in
+                                                        </div>
+                                                    </div>
+                                                   
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\Piyush Photo 1 - Piyush Shyam Kothawade.jpg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Piyush Kothawade <br> 9274996164 <br>
+                                                            es22btech11026@iith.ac.in
+                                                        </div>
+                                                    </div>
+                                                    <div class="col-md-2 col-sm-12"></div>
+                                                </div>
+
+                                                    <div class="col-md-2 col-sm-12"></div>
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\IMG-20230117-WA0001 - Prashans Chauhan.jpg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Prashans Chauhan <br> 7580955130 <br>
+                                                            es22btech11028@iith.ac.in
+                                                        </div>
+                                                    </div>
+                                                    
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\20230118_232842 - Divya Mehul Rajparia.jpg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Divya Rajparia<br> 8657434081<br>
+                                                            es22btech11013@iith.ac.in
+                                                        </div>
+                                                    </div>
                                                     <div class="col-md-2 col-sm-12"></div>
                                                 </div>
                                                 <!-- IC -->
@@ -1658,9 +1630,8 @@ include_once('header.php');
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                    <div class=" col-md-4 col-sm-12  ">
-
-                                                    </div>
+                                                    
+                                                    <div class="col-md-2 col-sm-12"></div>
                                                     <div class=" col-md-4 col-sm-12  ">
                                                         <div class="student">
                                                             <div class="imageHolder">
@@ -1671,20 +1642,32 @@ include_once('header.php');
                                                         </div>
                                                     </div>
                                                     <div class=" col-md-4 col-sm-12  ">
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\WhatsApp Image 2023-01-16 at 18.12.22 - Shreya Sridhar.jpeg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Shreya Sridhar<br>9535128983<br>ic22btech11015@iith.ac.in
+                                                        </div>
+                                                    </div>
+                                                    <div class=" col-md-4 col-sm-12  ">
 
                                                     </div>
 
-                                                    <!-- </div> -->
+                                                    </div>
 
-                                                    <!-- MSME -->
+                                                    <!-- Mechanical -->
+                                                
+
                                                     <div class="row">
                                                         <div class=" col-md-12 col-sm-12 student-header">
                                                             <h2 class="branch sm-center"><b>Mechanical Engineering</b>
                                                             </h2>
                                                         </div>
                                                     </div>
-                                                    <div class="row">
-
+                                                    
+                                                    <div class = "row">        
                                                         <div class=" col-md-4 col-sm-12  ">
                                                             <div class="student">
                                                                 <div class="imageHolder">
@@ -1695,6 +1678,7 @@ include_once('header.php');
                                                                 Bhandari<br>9356488010<br>me21btech11009@iith.ac.in
                                                             </div>
                                                         </div>
+                                                        
                                                         <div class=" col-md-4 col-sm-12  ">
                                                             <div class="student">
                                                                 <div class="imageHolder">
@@ -1705,6 +1689,7 @@ include_once('header.php');
                                                                 Jaiwar<br>8319556225<br>me21btech11014@iith.ac.in
                                                             </div>
                                                         </div>
+                                                        
                                                         <div class=" col-md-4 col-sm-12  ">
                                                             <div class="student">
                                                                 <div class="imageHolder">
@@ -1715,10 +1700,40 @@ include_once('header.php');
                                                                 Jahnavi<br>8008016620<br>me21btech11055@iith.ac.in
                                                             </div>
                                                         </div>
-
-
-
                                                     </div>
+
+                                                        <div class=" col-md-4 col-sm-12  ">
+                                                            <div class="student">
+                                                                <div class="imageHolder">
+                                                                    <img src="images\team-2022\UG_Buddies\IMG_20230116_183127 - Nilkanth Omkar Devendra.jpg"
+                                                                        class="student-img img-responsive">
+                                                                </div>
+                                                                <br>Omkar Devendra Nilkanth <br>7058884881<br>me22btech11038@iith.ac.in 
+                                                            </div>
+                                                        </div>
+                                                        <div class=" col-md-4 col-sm-12  ">
+                                                            <div class="student">
+                                                                <div class="imageHolder">
+                                                                    <img src="images\team-2022\UG_Buddies\IMG_20230116_171232 - Harman Singh.jpg"
+                                                                        class="student-img img-responsive">
+                                                                </div>
+                                                                <br>Harman Singh  <br>9518076018<br>me22btech11024@iith.ac.in 
+                                                            </div>
+                                                        </div>
+                                                        <div class=" col-md-4 col-sm-12  ">
+                                                            <div class="student">
+                                                                <div class="imageHolder">
+                                                                    <img src="images\team-2022\UG_Buddies\IMG-20230120-WA0023 - Shreya Bangal.jpg"
+                                                                        class="student-img img-responsive">
+                                                                </div>
+                                                                <br>Shreya Bangal <br>9958002091<br>me22btech11051@iith.ac.in
+                                                            </div>
+                                                        </div>
+
+
+
+                                                
+                                                    
 
                                                 </div>
                                                 <!-- MSME -->
@@ -1729,9 +1744,9 @@ include_once('header.php');
                                                     </div>
                                                 </div>
                                                 <div class="row">
-                                                    <div class=" col-md-4 col-sm-12  ">
+                                                    
+                                                    <div class=" col-md-2 col-sm-12  "></div>
 
-                                                    </div>
                                                     <div class=" col-md-4 col-sm-12  ">
                                                         <div class="student">
                                                             <div class="imageHolder">
@@ -1741,8 +1756,40 @@ include_once('header.php');
                                                             <br>Abhay Kumar<br>7033153236<br>ms21btech11002@iith.ac.in
                                                         </div>
                                                     </div>
+                                                    
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                    <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\_DSC0372 (1) - Dasari Ram Vasanth.JPG"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Dasari Ram Vasanth <br>8310397068<br>ms22btech11011@iith.ac.in 
+                                                        </div>
+                                                    </div>
+                                                    <div class=" col-md-2 col-sm-12  "></div>
+                                                
+
+                                        <!-- Mathematics and Computing -->
+                                                    <div class="row">
+                                                    <div class=" col-md-12 col-sm-12 student-header">
+                                                        <h2 class="branch sm-center"><b>Mathematics and Computing</b></h2>
+                                                    </div>
+                                                </div>
+                                                <div class="row">
                                                     <div class=" col-md-4 col-sm-12  ">
 
+                                                    </div>
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                        <div class="student">
+                                                            <div class="imageHolder">
+                                                                <img src="images\team-2022\UG_Buddies\photo - Aakarshita Shastri.jpg"
+                                                                    class="student-img img-responsive">
+                                                            </div>
+                                                            <br>Aakarshita Shastri<br>7077577887<br>ma22btech11001@iith.ac.in
+                                                        </div>
+                                                    </div>
+                                                    <div class=" col-md-4 col-sm-12  ">
+                                                    
                                                     </div>
 
 
