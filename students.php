@@ -1140,7 +1140,7 @@ include_once('header.php');
                             <div class=" col-md-4 col-sm-12  ">
                                 <div class="student">
                                     <div class="imageHolder">
-                                        <img src="images\team-2022\UG_Buddies\IMG-20230112-WA0002~2 - Udit Dutta.jpg"
+                                        <img src="images/team-2022/UG_Buddies/IMG-20230112-WA0002_2 - Udit Dutta.jpg"
                                             class="student-img img-responsive">
                                     </div>
                                     <br>Udit Dutta<br> 9954200701 <br> ce22btech11049@iith.ac.in
