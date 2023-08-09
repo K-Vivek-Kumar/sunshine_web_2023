@@ -1,7 +1,13 @@
-<?php 
-$a0="";$a1="active";$a2="";$a3="";$a4="";$a5="";$a6="";
-$title="Team | Sunshine, IIT Hyderabad";
-include_once ('header.php'); 
+<?php
+$a0 = "";
+$a1 = "active";
+$a2 = "";
+$a3 = "";
+$a4 = "";
+$a5 = "";
+$a6 = "";
+$title = "Team | Sunshine, IIT Hyderabad";
+include_once('header.php');
 ?>
 <div class="text-inter">
 	<div class="container">
@@ -29,12 +35,12 @@ include_once ('header.php');
 			<div class="col-md-12 col-sm-12">
 				<div class="faculty-rep less-height">
 					<div class="faculty-image">
-						<img src="./images/faculty/sukunew.jpg" />
+						<img src="./images/faculty/SOMNATH_MAJI.jpg" />
 					</div>
 					<br>
 					<div class="details">
-						Dr. D. Sukumar <br>
-						suku@math.iith.ac.in<br>
+						Dr. Somnath Maji <br>
+
 						fic.sunshine@iith.ac.in<br>
 						+91-8331036053<br>
 					</div>
@@ -61,8 +67,8 @@ include_once ('header.php');
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-12">
-			<div class="faculty-rep less-height">
-				<b>Psychological Counsellor</b><br>
+				<div class="faculty-rep less-height">
+					<b>Psychological Counsellor</b><br>
 					<div class="faculty-image">
 						<img src="./images/faculty/IMG_1257 - Yukti Rastogi.JPG" />
 					</div>
@@ -74,8 +80,8 @@ include_once ('header.php');
 				</div>
 			</div>
 			<div class="col-md-4 col-sm-12">
-			<div class="faculty-rep less-height">
-				<b>Psychological Counsellor</b><br>
+				<div class="faculty-rep less-height">
+					<b>Psychological Counsellor</b><br>
 					<div class="faculty-image">
 						<img src="./images/faculty/phani.jpeg" />
 					</div>
@@ -85,7 +91,7 @@ include_once ('header.php');
 						+91-8331036082<br>
 					</div>
 				</div>
-				
+
 			</div>
 		</div>
 	</div>
@@ -153,7 +159,7 @@ include_once ('header.php');
 							<img src="images/faculty/WhatsApp Image 2022-09-08 at 10.39.10 AM.jpeg" />
 						</div>
 						<div class="details">
-						Dr. Santhosh Kumar Devarai
+							Dr. Santhosh Kumar Devarai
 							<br>
 							devarai@che.iith.ac.in
 							<br>
@@ -169,7 +175,7 @@ include_once ('header.php');
 							Climate Change
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/satish_regonda.jpg"/>
+							<img src="./images/faculty/satish_regonda.jpg" />
 						</div>
 						<div class="details">
 							Dr. Satish Regonda<br>
@@ -184,7 +190,7 @@ include_once ('header.php');
 							Chemistry
 						</div>
 						<div class="faculty-image">
-							<img src="images/faculty/SMAJI - Somnath Maji.jpeg" />
+							<img src="./images/faculty/SOMNATH_MAJI.jpg" />
 						</div>
 						<div class="details">
 							Dr. Somnath Maji<br>
@@ -288,114 +294,114 @@ include_once ('header.php');
 						</div>
 					</div>
 				</div>
-			<div class="row faculty-row">
-				<div class="col-md-3 col-sm-12">
-					<div class="faculty-rep">
-						<div class="faculty-dept">
-							Liberal Arts
+				<div class="row faculty-row">
+					<div class="col-md-3 col-sm-12">
+						<div class="faculty-rep">
+							<div class="faculty-dept">
+								Liberal Arts
+							</div>
+							<div class="faculty-image">
+								<img src="images/faculty/IMG_20220905_173924 - Shuhita Bhattacharjee.jpeg" />
+							</div>
+							<div class="details">
+								Dr. Shuhita Bhattacharjee
+								<br>
+								shuhita@la.iith.ac.in
+								<br>
+							</div>
 						</div>
-						<div class="faculty-image">
-							<img src="images/faculty/IMG_20220905_173924 - Shuhita Bhattacharjee.jpeg" />
+					</div>
+					<div class="col-md-3 col-sm-12">
+						<div class="faculty-rep">
+							<div class="faculty-dept">
+								Liberal Arts
+							</div>
+							<div class="faculty-image">
+								<img src="images/faculty/2012-12-12 20.49.38 - Mahati Chittem.jpg" />
+							</div>
+							<div class="details">
+								Dr. Mahati Chittem
+								<br>
+								mahati@la.iith.ac.in
+								<br>
+							</div>
 						</div>
-						<div class="details">
-							Dr. Shuhita Bhattacharjee
-							<br>
-							shuhita@la.iith.ac.in
-							<br>
+					</div>
+					<div class="col-md-3 col-sm-12">
+						<div class="faculty-rep">
+							<div class="faculty-dept">
+								Mechanical and Aerospace Engineering
+							</div>
+							<div class="faculty-image">
+								<img src="./images/faculty/badari11.jpg" />
+							</div>
+							<div class="details">
+								Dr .Karri Badarinath
+								<br>
+								badarinath@mae.iith.ac.in
+								<br>
+							</div>
+						</div>
+					</div>
+					<div class="col-md-3 col-sm-12">
+						<div class="faculty-rep">
+							<div class="faculty-dept">
+								Materials Science and Metallurgical Engineering
+							</div>
+							<div class="faculty-image">
+								<img src="./images/faculty/suresh-g.png" />
+							</div>
+							<div class="details">
+								Dr. Suresh Kumar Garlapati
+								<br>
+								gsuresh@msme.iith.ac.in
+								<br>
+							</div>
+						</div>
+					</div>
+					<div class="row faculty-row">
+						<div class="col-md-3 col-sm-12"></div>
+						<div class="col-md-3 col-sm-12">
+							<div class="faculty-rep">
+								<div class="faculty-dept">
+									Mathematics
+								</div>
+								<div class="faculty-image">
+									<img src="./images/faculty/sukunew.jpg" />
+								</div>
+								<div class="details">
+									Dr. D. Sukumar
+									<br>
+									suku@math.iith.ac.in
+									<br>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-12">
+							<div class="faculty-rep">
+								<div class="faculty-dept">
+									Physics
+								</div>
+								<div class="faculty-image">
+									<img src="images/faculty/pic_independence_day_2022 - Arabinda Haldar.jpeg" />
+								</div>
+								<div class="details">
+									Dr. Arabinda Haldar
+									<br>
+									arabinda@phy.iith.ac.in
+									<br>
+								</div>
+							</div>
+						</div>
+						<div class="col-md-3 col-sm-12"></div>
+					</div>
+					<div class="row faculty-row">
+						<div class="col-md-12 col-sm-12">
+							<h1 align="center"><a href="./students.php"> UG Student Mentors</a></h1>
+							<h1 align="center"><a href="./pgstudents.php"> PG Student Mentors</a></h1>
 						</div>
 					</div>
 				</div>
-				<div class="col-md-3 col-sm-12">
-					<div class="faculty-rep">
-						<div class="faculty-dept">
-							Liberal Arts
-						</div>
-						<div class="faculty-image">
-							<img src="images/faculty/2012-12-12 20.49.38 - Mahati Chittem.jpg" />
-						</div>
-						<div class="details">
-							Dr. Mahati Chittem
-							<br>
-							mahati@la.iith.ac.in
-							<br>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-12">
-					<div class="faculty-rep">
-						<div class="faculty-dept">
-							Mechanical and Aerospace Engineering
-						</div>
-						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/me20.jpeg" />
-						</div>
-						<div class="details">
-							Dr. Gangadharan
-							<br>
-							gangadharanr@mae.iith.ac.in
-							<br>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-12">
-					<div class="faculty-rep">
-						<div class="faculty-dept">
-							Materials Science and Metallurgical Engineering
-						</div>
-						<div class="faculty-image">
-							<img src="./images/faculty/suresh-g.png" />
-						</div>
-						<div class="details">
-							Dr. Suresh Kumar Garlapati
-							<br>
-							gsuresh@msme.iith.ac.in
-							<br>
-						</div>
-					</div>
-				</div>
-			<div class="row faculty-row">
-				<div class="col-md-3 col-sm-12"></div>
-				<div class="col-md-3 col-sm-12">
-					<div class="faculty-rep">
-						<div class="faculty-dept">
-							Mathematics
-						</div>
-						<div class="faculty-image">
-							<img src="./images/faculty/sukunew.jpg" />
-						</div>
-						<div class="details">
-						Dr. D. Sukumar
-							<br>
-							suku@math.iith.ac.in
-							<br>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-12">
-					<div class="faculty-rep">
-						<div class="faculty-dept">
-							Physics
-						</div>
-						<div class="faculty-image">
-							<img src="images/faculty/pic_independence_day_2022 - Arabinda Haldar.jpeg" />
-						</div>
-						<div class="details">
-							Dr. Arabinda Haldar
-							<br>
-							arabinda@phy.iith.ac.in
-							<br>
-						</div>
-					</div>
-				</div>
-				<div class="col-md-3 col-sm-12"></div>
 			</div>
-			<div class="row faculty-row">
-				<div class="col-md-12 col-sm-12">
-					<h1 align="center"><a href="./students.php"> UG Student Mentors</a></h1>
-					<h1 align="center"><a href="./pgstudents.php"> PG Student Mentors</a></h1>
-				</div>
-			</div>
-		</div>
-	</div>
 
-	<?php include_once ('footer.php'); ?>
+			<?php include_once('footer.php'); ?>
