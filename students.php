@@ -64,6 +64,7 @@ include_once('header.php');
         <!-- FIRST ROW -->
         <div class="row">
             <center>
+            <div class="col-md-2 col-sm-12"></div>
                 <div class="col-md-4 col-sm-12">
                     <div class="student">
                         <div class="imageHolder">
@@ -241,7 +242,7 @@ include_once('header.php');
                                 <img src="images/team-2023/WhatsApp Image 2021-03-21 at 1.35.30 - Harish Kumar N N.jpeg"
                                     class="student-img img-responsive">
                             </div>
-                            <br>HARISH KUMAR N N<br>9791087492<br>ch22mtech11011@iith.ac.in
+                            <br>Harish Kumar N N<br>9791087492<br>ch22mtech11011@iith.ac.in
                         </div>
                     </div>
                     <div class="col-md-4 col-sm-12">
@@ -252,6 +253,16 @@ include_once('header.php');
                                     class="student-img img-responsive">
                             </div>
                             <br>Madhurima chundu<br>8297269216<br>ch22btech11010@iith.ac.in
+                        </div>
+                    </div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="student">
+
+                            <div class="imageHolder">
+                                <img src="images/team-2023/Screenshot_2023-08-05-13-29-59-87_254de13a4bc8758c9908fff1f73e3725 - Rishab Prasad Soni.jpg"
+                                    class="student-img img-responsive">
+                            </div>
+                            <br>Rishab Prasad Soni<br>8249672705<br>em21resch01001@iith.ac.in
                         </div>
                     </div>
                 </center>
@@ -427,15 +438,15 @@ include_once('header.php');
                         <br>Sai Teja<br>9502426191<br>me22btech11015@iith.ac.in
                     </div>
                 </div>
-                <!-- <div class="col-md-4 col-sm-12">
+                <div class="col-md-4 col-sm-12">
                     <div class="student management-team">
                         <div class="imageHolder">
-                            <img src="images/team-2022/Management_Team/Arpita_Multimedia_Coordinator - ARPITA GAUTAM.jpeg"
+                            <img src="images/team-2023/IMG_4721 - Erraram Saikumar.jpg"
                                 class="student-img img-responsive">
                         </div>
-                        <br>Arpita Gautam <br> 9326519305 <br>me20btech11008@iith.ac.in
+                        <br>E.Saikumar <br> 7382678737 <br>ms22btech11012@iith.ac.in 
                     </div>
-                </div> -->
+                </div>
             </div>
             </center>
         </div>
@@ -451,34 +462,48 @@ include_once('header.php');
         <!--FIRST ROW -->
         <div class="row faculty-row">
             <center>
-                <div class="row">
-                    <div class=" col-md-4 col-sm-12  ">
-                        <div class="student">
-                            <div class="imageHolder">
-                                <img src="images/team-2023/Profile_Vyaas - Vyaas R.jpeg"
+                <div class="col-md-2 col-sm-12"></div>
+                <div class=" col-md-4 col-sm-12  ">
+                    <div class="student management-team">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/Profile_Vyaas - Vyaas R.jpeg"
                                     class="student-img img-responsive">
-                            </div>
-                            <br>Vyaas Ramakrishnan<br>9940556281<br>ep22btech11031@iith.ac.in
                         </div>
+                        <br>Vyaas Ramakrishnan<br>9940556281<br>ep22btech11031@iith.ac.in
                     </div>
-                    <div class=" col-md-4 col-sm-12  ">
-                        <div class="student">
-                            <div class="imageHolder">
-                                <img src="images/team-2023/PXL_20230703_134607915 - Shriram H.jpg"
+                </div>
+                <div class=" col-md-4 col-sm-12  ">
+                    <div class="student management-team">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/PXL_20230703_134607915 - Shriram H.jpg"
                                     class="student-img img-responsive">
-                            </div>
-                            <br>Shriram H<br>7550050995<br>me22btech11023@iith.ac.in
                         </div>
+                        <br>Shriram H<br>7550050995<br>me22btech11023@iith.ac.in
                     </div>
-                    <div class=" col-md-4 col-sm-12  ">
-                        <div class="student">
-                            <div class="imageHolder">
-                                <img src="images/team-2023/IMG_20230726_203548 - Gugulothu Sai Keerthi.jpg"
-                                    class="student-img img-responsive">
-                            </div>
-                            <br>G Sai Keerthi<br>7013904294<br>cs22btech11024@iith.ac.in
+                </div>
+        </div>
+        <div class="row faculty-row">
+            <center>
+                <div class="col-md-2 col-sm-12"></div>
+                <div class=" col-md-4 col-sm-12  ">
+                    <div class="student management-teamt">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/IMG_20230726_203548 - Gugulothu Sai Keerthi.jpg"
+                                class="student-img img-responsive">
                         </div>
+                        <br>G Sai Keerthi<br>7013904294<br>cs22btech11024@iith.ac.in
                     </div>
+                </div>
+                <div class=" col-md-4 col-sm-12  ">
+                    <div class="student management-teamt">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/me - Prathamesh Ravindra Mundye.jpg"
+                                class="student-img img-responsive">
+                        </div>
+                        <br>Prathamesh Mundye<br>8390770784<br>md22mdes14025@iith.ac.in
+                    </div>
+                </div>
+        </div>
                     <!-- <div class=" col-md-4 col-sm-12  "></div> -->
                     <div class="row faculty-row">
                         <!-- <center>
