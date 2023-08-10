@@ -78,10 +78,10 @@ include_once('header.php');
                <div class="col-md-4 col-sm-12 ">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/team-2022/PG_PHD/1662280703480 - Sugirtha Gayathri G.jpg"
+                        <img src="images/team-2023/download - GANTA BHANU GANESH.png"
                            class="student-img img-responsive">
                      </div>
-                     <br>Sugirtha Gayathri G<br>9842503669<br> ma20resch11012@iith.ac.in
+                     <br>G Bhanu Ganesh<br>9030435668<br> ee21resch11010@iith.ac.in
                   </div>
                </div>
             </div>
