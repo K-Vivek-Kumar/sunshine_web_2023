@@ -11,8 +11,30 @@ include_once('header.php');
 ?>
 
 
-<div class="container " style="padding-top: 54px;">
+<div class="container " style="padding-top: 54px; padding-bottom: 54px;">
+
+
    <div class="row">
+      <div class="col-md-12 col-sm-12" style="width:100%;">
+         <h1 align="center">
+            <b>Pulse Volume 3</b>
+         </h1>
+      </div>
+   </div>
+   <div class="row">
+      <div class="col-sm-1 col-xs-12"></div>
+      <div class="col-sm-10 col-xs-12">
+         <embed src="newsletter/vol3.pdf#view=FitH" width="100%"
+            style="height:100vh;border: 5px dotted #800000; border-radius:30px; padding:10px;" type="application/pdf">
+      </div>
+      <div class="col-sm-1 col-xs-12"></div>
+
+   </div>
+
+
+
+
+   <div class="row" style="padding-top:30px">
       <div class="col-md-12 col-sm-12" style="width:100%;">
          <h1 align="center">
             <b>Pulse Volume 2</b>
@@ -22,7 +44,8 @@ include_once('header.php');
    <div class="row">
       <div class="col-sm-1 col-xs-12"></div>
       <div class="col-sm-10 col-xs-12">
-         <embed src="newsletter/vol2.pdf#view=FitH" width="100%" style="height:100vh;border: 5px dotted #800000; border-radius:30px; padding:10px;" type="application/pdf">
+         <embed src="newsletter/vol2.pdf#view=FitH" width="100%"
+            style="height:100vh;border: 5px dotted #800000; border-radius:30px; padding:10px;" type="application/pdf">
       </div>
       <div class="col-sm-1 col-xs-12"></div>
 
@@ -38,7 +61,8 @@ include_once('header.php');
    <div class="row">
       <div class="col-sm-1 col-xs-12"></div>
       <div class="col-sm-10 col-xs-12">
-         <embed src="newsletter/vol1.pdf#view=FitH" width="100%" style="height:100vh;border: 5px dotted #800000; border-radius:30px; padding:10px;" type="application/pdf">
+         <embed src="newsletter/vol1.pdf#view=FitH" width="100%"
+            style="height:100vh;border: 5px dotted #800000; border-radius:30px; padding:10px;" type="application/pdf">
       </div>
       <div class="col-sm-1 col-xs-12"></div>
 
