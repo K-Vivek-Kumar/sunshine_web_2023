@@ -661,7 +661,58 @@ include_once('header.php');
                     </div>
 
 
-
+                    <div class="row justify-content-md-center">
+               <div class=" col-md-12  col-sm-12 student-header">
+                  <h2 class="branch  sm-center"><b>UG Mentorship Heads</b></h2>
+               </div>
+            </div>
+            <div class="row ">
+               <div class="col-md-2 col-sm-12"></div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <img src="images/team-2023/IMG-20230603-WA0027 - Riya Ann Easow.jpg"
+                           class="student-img img-responsive">
+                     </div>
+                     <br>Riya Ann Easow<br>9353702544<br>ee21btech11044@iith.ac.in
+                  </div>
+               </div>
+               <div class="col-md-4 col-sm-12 ">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <img src="images/team-2023/sunshine - Kaustubh Gupta.jpg"
+                           class="student-img img-responsive">
+                     </div>
+                     <br>Kaustubh Gupta<br>8982255359<br>es21btech11016@iith.ac.in
+                  </div>
+               </div>
+            </div>
+            <div class="row justify-content-md-center">
+               <div class=" col-md-12  col-sm-12 student-header">
+                  <h2 class="branch  sm-center"><b>UG Buddy Heads</b></h2>
+               </div>
+            </div>
+            <div class="row ">
+               <div class="col-md-2 col-sm-12"></div>
+               <div class="col-md-4 col-sm-12">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <img src="images/team-2023/IMG_1511~2_1 - Devansh Agrawal.jpg"
+                           class="student-img img-responsive">
+                     </div>
+                     <br>Devansh Agrawal<br>9667236662<br>es22btech11010@iith.ac.in
+                  </div>
+               </div>
+               <div class="col-md-4 col-sm-12 ">
+                  <div class="student">
+                     <div class="imageHolder">
+                        <img src="images/team-2023/Screenshot_20230812_213529_WhatsApp - Jhatakia Jash Jayesh.jpg"
+                           class="student-img img-responsive">
+                     </div>
+                     <br>Jash Jhatakia<br>9426023104<br>cs22btech11028@iith.ac.in
+                  </div>
+               </div>
+            </div>
 
 
 

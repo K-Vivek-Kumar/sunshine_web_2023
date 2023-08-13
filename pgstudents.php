@@ -131,10 +131,10 @@ include_once('header.php');
                <div class="col-md-4 col-sm-12 ">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/team-2022/PG_PHD/IMG_20220815_135511 - Suvitti.jpg"
+                        <img src="images/team-2023/IMG-20230813-WA0001 - Bharat Kumar.jpg"
                            class="student-img img-responsive">
                      </div>
-                     <br>Suvitti<br>8901028748<br> ai21resch11005@iith.ac.in
+                     <br>Bharat Kumar<br>8299383445<br>ms22mtech11009@iith.ac.in
                   </div>
                </div>
             </div>
