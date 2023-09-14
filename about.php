@@ -52,8 +52,8 @@ include_once ('header.php');
                <font size="4pm">
             <ul> 
             Since its inception on January 12, 2012, Sunshine- the counselling cell at IIT- H, has been committed to
-            helping the student community. The dedicated <a href="./team.php">team</a>  of Sunshine comprises of a Faculty in- Charge, two Psychological Counsellors,
-            fifteen faculty representatives, three student heads, seven management team members and thirty six student mentors</a>.<br><br>
+            helping the student community. The dedicated <a href="./team.php">team</a>  of Sunshine comprises of a Faculty in- Charge, three Psychological Counsellors,
+            eighteen faculty representatives, twelve student heads and thirty three management team members</a>.<br><br>
             </ul>
             </ul>
             </font></p>
