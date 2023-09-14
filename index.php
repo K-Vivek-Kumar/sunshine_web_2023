@@ -93,6 +93,36 @@ include_once('header.php');
                   <li>Certificate and Letter of recommendation from counselors.</li>
                </ol>
                </p>
+               <p>
+                  You can find out the mentor assigned to you by referring to the document provided below.
+               </p>
+               <style>
+                  .mentr {
+                     width: 100%;
+                     display: flex;
+                     justify-content: center;
+                  }
+               </style>
+               <div class="mentr">
+                  <style>
+                     .button111 {
+                        background-color: red;
+                        color: white;
+                        padding: 10px 20px;
+                        border: none;
+                        text-align: center;
+                        text-decoration: none;
+                        display: inline-block;
+                        font-size: 16px;
+                        margin: 4px 2px;
+                        cursor: pointer;
+                        border-radius: 8px;
+                     }
+                  </style>
+                  <a href="https://www.example.com">
+                     <button class="button111">Know your Mentor!!</button>
+                  </a>
+               </div>
             </div>
             <h1 style="color:#800000;font-weight:bold;font-family:'Pacifico';letter-spacing:2px;font-size:2.7em;">
                Hello!
