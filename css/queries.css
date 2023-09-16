@@ -82,8 +82,11 @@
         margin-left: 0.5em;
     }   
     .logo{
-        width: 353px!important;
+        width: 85%!important;
         padding-right: 0;
+    }
+    .logo_txt{
+        width:60% !important;
     }
     .logo_img{
         left:0!important;
@@ -95,7 +98,17 @@
         padding-left: 0;
     }
 }
-
+@media only screen and (max-width : 436px) {  
+    .logo_img img{
+        padding-left: 0!important;
+    }
+}
+@media only screen and (max-width : 400px) {  
+    .logo_img img{
+        padding-left: 0!important;
+        padding-top: 10px!important;
+    }
+}
 @media screen and (max-width : 768px) {  
     .quote-container .portrait{
         top:0.5em;

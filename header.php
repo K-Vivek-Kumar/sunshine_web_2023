@@ -32,7 +32,7 @@
                     <img src="./images/sunshine_new_logo@4x.png">
                 </div>
                 <div class="logo_txt">
-                    <h2 class="logo-text" style="font-family:'Tangerine';font-weight:bold;font-size:3.8em;">Sunshine</h2>
+                    <h2 class="logo-text" style="font-family:'Tangerine';font-weight:bold;font-size:3.5rem;">Sunshine</h2>
                 </div>
             </div>
         </a>

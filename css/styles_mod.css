@@ -77,7 +77,8 @@ table.contact_table_faulty tr td{
 }
 .logo_img img{
 	width:100%;
-	padding-left: 20px;
+	padding-left:10%;
+	padding-bottom: 4%;
 	
 	/* padding-bottom:15px;  */
 }
@@ -236,4 +237,17 @@ img.slick-slide, div.slick-slide{
 .article-img img {
 	width: 320px;
 	height: 320px;
+}
+
+@media screen and (max-width: 500px) {  
+	.logo_img{
+		width:30%;
+		/*height:68px;*/
+		float: left;
+		z-index: 100;
+		position: relative;
+		align-content: center;
+		top:0;
+		/* left:20px; */
+	}
 }
