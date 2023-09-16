@@ -94,6 +94,9 @@
     .logo_img img{
         padding-left: 0;
     }
+    h2.logo-text{
+        padding: 20px 0px 0px;
+    }
 }
 
 @media screen and (max-width : 768px) {  
