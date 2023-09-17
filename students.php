@@ -95,10 +95,8 @@ include_once('header.php');
                 </div> -->
             </center>
         </div>
-    </div>
-    <br><br>
-    <!-- MANAGEMENT TEAM -->
-    <div class="container">
+        <br><br>
+        <!-- MANAGEMENT TEAM -->
         <!-- HEADING -->
         <!-- <div class="row">
             <div class=" col-md-12 student-header">
@@ -159,31 +157,31 @@ include_once('header.php');
 
 
 
- <div class="row justify-content-md-center">
+        <div class="row justify-content-md-center">
                <div class=" col-md-12  col-sm-12 student-header">
                   <h2 class="branch  sm-center"><b>UG Mentor Heads</b></h2>
                </div>
             </div>
             <div class="row ">
                <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team-2023/IMG-20230603-WA0027 - Riya Ann Easow.jpg"
+                <div class="col-md-4 col-sm-12">
+                    <div class="student">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/IMG-20230603-WA0027 - Riya Ann Easow.jpg"
                            class="student-img img-responsive">
-                     </div>
+                        </div>
                      <br>Riya Ann Easow<br>9353702544<br>ee21btech11044@iith.ac.in
-                  </div>
-               </div>
-               <div class="col-md-4 col-sm-12 ">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team-2023/sunshine - Kaustubh Gupta.jpg"
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12 ">
+                    <div class="student">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/sunshine - Kaustubh Gupta.jpg"
                            class="student-img img-responsive">
-                     </div>
+                        </div>
                      <br>Kaustubh Gupta<br>8982255359<br>es21btech11016@iith.ac.in
-                  </div>
-               </div>
+                     </div>
+                </div>
             </div>
             <div class="row justify-content-md-center">
                <div class=" col-md-12  col-sm-12 student-header">
@@ -191,25 +189,25 @@ include_once('header.php');
                </div>
             </div>
             <div class="row ">
-               <div class="col-md-2 col-sm-12"></div>
-               <div class="col-md-4 col-sm-12">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team-2023/IMG_1511~2_1 - Devansh Agrawal.jpg"
+                <div class=" col-md-2 col-sm-12"></div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="student">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/IMG_1511~2_1 - Devansh Agrawal.jpg"
                            class="student-img img-responsive">
-                     </div>
-                     <br>Devansh Agrawal<br>9667236662<br>es22btech11010@iith.ac.in
-                  </div>
+                        </div>
+                        <br>Devansh Agrawal<br>9667236662<br>es22btech11010@iith.ac.in
+                    </div>
                </div>
-               <div class="col-md-4 col-sm-12 ">
-                  <div class="student">
-                     <div class="imageHolder">
-                        <img src="images/team-2023/Screenshot_20230812_213529_WhatsApp - Jhatakia Jash Jayesh.jpg"
+                <div class="col-md-4 col-sm-12 ">
+                    <div class="student">
+                        <div class="imageHolder">
+                            <img src="images/team-2023/Screenshot_20230812_213529_WhatsApp - Jhatakia Jash Jayesh.jpg"
                            class="student-img img-responsive">
-                     </div>
+                        </div>
                      <br>Jash Jhatakia<br>9426023104<br>cs22btech11028@iith.ac.in
-                  </div>
-               </div>
+                     </div>
+                </div>
             </div>
 
 
@@ -230,7 +228,6 @@ include_once('header.php');
 
 
 
-        <div class="container">
             <!-- HEADING -->
             <div class="row" style="margin-bottom: 15px;">
                 <div class=" col-md-12 col-sm-12 student-header">
@@ -239,6 +236,7 @@ include_once('header.php');
             </div>
             <!--2021-->
             <div class="row">
+                <div class="col-sm-12  "></div>
                 <div class=" col-md-4 col-sm-12  ">
                     <div class="student">
                         <div class="imageHolder">
@@ -266,31 +264,34 @@ include_once('header.php');
                         <br>Bhaskar Mandal<br>9647598624<br>ms22btech11010@iith.ac.in
                     </div>
                 </div>
+                <div class="col-md-2 col-sm-12"></div>
                 <!-- <div class=" col-md-4 col-sm-12  "></div> -->
-                <div class="row faculty-row">
-                    <center>
-                        <div class=" col-md-2 col-sm-12"></div>
-                        <div class=" col-md-4 col-sm-12">
-                            <div class="student">
-                                <div class="imageHolder">
-                                    <img src="images/team-2023/IMG20230219104724 - Rishitha Surineni.jpg"
-                                        class="student-img img-responsive">
-                                </div>
-                                <br>Rishitha Surineni<br>8008246935<br>cs22btech11050@iith.ac.in
+        </div>
+    </div>
+    <div class="container" >
+            <div class="row ">
+                <center>
+                    <div class=" col-md-2 col-sm-12"></div>
+                    <div class=" col-md-4 col-sm-12">
+                        <div class="student">
+                            <div class="imageHolder">
+                                <img src="images/team-2023/IMG20230219104724 - Rishitha Surineni.jpg"
+                                    class="student-img img-responsive">
                             </div>
+                            <br>Rishitha Surineni<br>8008246935<br>cs22btech11050@iith.ac.in
                         </div>
-                        <div class=" col-md-4 col-sm-12">
-                            <div class="student">
-                                <div class="imageHolder">
-                                    <img src="images/team-2023/IMG-20221124-WA0014 - Advait Jain.jpg"
-                                        class="student-img img-responsive">
-                                </div>
-                                <br>Advait Jain<br>8817255567<br>cs22btech11003@iith.ac.in
+                    </div>
+                    <div class=" col-md-4 col-sm-12">
+                        <div class="student">
+                            <div class="imageHolder">
+                                <img src="images/team-2023/IMG-20221124-WA0014 - Advait Jain.jpg"
+                                    class="student-img img-responsive">
                             </div>
+                            <br>Advait Jain<br>8817255567<br>cs22btech11003@iith.ac.in
                         </div>
-                        <div class=" col-md-2 col-sm-12"></div>
-                    </center>
-                </div>
+                    </div>
+                    <div class=" col-md-2 col-sm-12"></div>
+                </center>
             </div>
 
             <div class="row">
@@ -368,113 +369,108 @@ include_once('header.php');
                </div>
             </div>
       </div> -->
-            <div class="row faculty-row">
                 </center>
                 <!-- Publicity TEAM -->
-                <div class="container">
                     <!-- HEADING -->
-                    <div class="row">
-                        <div class=" col-md-12 student-header">
-                            <h1 class="sm-center"><b>Publicity Team</b></h1>
-                        </div>
+                <div class="row">
+                    <div class=" col-md-12 student-header">
+                        <h1 class="sm-center"><b>Publicity Team</b></h1>
                     </div>
+                </div>
                     <!--FIRST ROW -->
-                    <div class="row faculty-row">
-                        <center>
-                            <div class=" col-md-4 col-sm-12  ">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images/team-2023/IMG_20230726_140203 - J Blessy Anvitha.jpg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>Blessy Anvitha J<br>7799045546<br>ai21btech11016@iith.ac.in
-                                </div>
-                            </div>
-                            <div class=" col-md-4 col-sm-12">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images/team-2023/IMG_20230726_144918 - Himanshu Suthar.jpg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>Himanshu Suthar<br>6376003487<br>ch22btech11013@iith.ac.in
-                                </div>
-                            </div>
-                            <div class=" col-md-4 col-sm-12">
-                                <div class="student">
-                                    <div class="imageHolder">
-                                        <img src="images/team-2023/IMG_2805 - Brahmbhatt Parth Kamal.jpeg"
-                                            class="student-img img-responsive">
-                                    </div>
-                                    <br>Parth Brahmbhatt<br>9099781308<br>ch22btech11008@iith.ac.in
-                                </div>
-                            </div>
-
-                        </center>
-                    </div>
-                    <div class="container">
-                        <div class="row">
-                            <div class=" col-md-12 student-header">
-                                <h1 class="sm-center"><b>Content Team</b></h1>
-                            </div>
-                            <center>
-                                <div class="col-md-2 col-sm-12"></div>
-                                <div class="col-md-4 col-sm-12">
-                                    <div class="student management-team">
-                                        <!-- <b>Buddy Head</b><br> -->
-                                        <div class="imageHolder">
-                                            <img src="images/team-2023/IMG_20221120_222006 - Chaitanya Kumar.jpg"
-                                                class="student-img img-responsive">
-                                        </div>
-                                        <br>Chaitanya<br>7838167243<br>ch21btech11008@iith.ac.in
-                                    </div>
-                                </div>
-                                <div class="col-md-4 col-sm-12">
-                                    <div class="student management-team">
-                                        <!-- <b>Buddy Head</b><br> -->
-                                        <div class="imageHolder">
-                                            <img src="images/team-2023/CAB91F0E-42AE-43DF-8D25-0B33FB62B938 - Mohammed Ayan.jpeg"
-                                                class="student-img img-responsive">
-                                        </div>
-                                        <br>Mohammed Ayan<br>6260687477<br>ch22btech11022@iith.ac.in
-                                    </div>
-                                </div>
-                        </div>
-                        <div class="col-md-2 col-sm-12"></div>
-                        <div class="col-md-4 col-sm-12">
-                            <div class="student management-team">
-                                <!-- <b>Buddy Head</b><br> -->
+                <div class="row ">
+                    <center>
+                        <div class=" col-md-4 col-sm-12  ">
+                            <div class="student">
                                 <div class="imageHolder">
-                                    <img src="images/team-2023/IMG-20221113-WA0007 - Aparna S Kaushik.jpg"
+                                    <img src="images/team-2023/IMG_20230726_140203 - J Blessy Anvitha.jpg"
                                         class="student-img img-responsive">
                                 </div>
-                                <br>Aparna S Kaushik<br>9868920657<br>co22btech11003@iith.ac.in
+                                <br>Blessy Anvitha J<br>7799045546<br>ai21btech11016@iith.ac.in
                             </div>
                         </div>
-                        <div class="col-md-4 col-sm-12">
-                            <div class="student management-team">
-                                <!-- <b>Buddy Head</b><br> -->
+                        <div class=" col-md-4 col-sm-12">
+                            <div class="student">
                                 <div class="imageHolder">
-                                    <img src="images/team-2023/Snapchat-1546446865 - Namburi Pravalika.jpg"
+                                    <img src="images/team-2023/IMG_20230726_144918 - Himanshu Suthar.jpg"
                                         class="student-img img-responsive">
                                 </div>
-                                <br>Pravalika Namburi<br>9182078029<br>ic22btech11006@iith.ac.in
+                                <br>Himanshu Suthar<br>6376003487<br>ch22btech11013@iith.ac.in
                             </div>
                         </div>
-                    </div>
-
-
+                        <div class=" col-md-4 col-sm-12">
+                            <div class="student">
+                                <div class="imageHolder">
+                                    <img src="images/team-2023/IMG_2805 - Brahmbhatt Parth Kamal.jpeg"
+                                        class="student-img img-responsive">
+                                </div>
+                                <br>Parth Brahmbhatt<br>9099781308<br>ch22btech11008@iith.ac.in
+                            </div>
+                        </div>
 
                     </center>
-                    <!-- <center>
-
-
-            </center> -->
+                </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class=" col-md-12 student-header">
+                <h1 class="sm-center"><b>Content Team</b></h1>
+            </div>
+            <center>
+                <div class="col-md-2 col-sm-12"></div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="student management-team">
+                        <!-- <b>Buddy Head</b><br> -->
+                        <div class="imageHolder">
+                            <img src="images/team-2023/IMG_20221120_222006 - Chaitanya Kumar.jpg"
+                                class="student-img img-responsive">
+                        </div>
+                        <br>Chaitanya<br>7838167243<br>ch21btech11008@iith.ac.in
+                    </div>
+                </div>
+                <div class="col-md-4 col-sm-12">
+                    <div class="student management-team">
+                        <!-- <b>Buddy Head</b><br> -->
+                        <div class="imageHolder">
+                            <img src="images/team-2023/CAB91F0E-42AE-43DF-8D25-0B33FB62B938 - Mohammed Ayan.jpeg"
+                                class="student-img img-responsive">
+                        </div>
+                        <br>Mohammed Ayan<br>6260687477<br>ch22btech11022@iith.ac.in
+                    </div>
+                </div>
+        </div>
+        <div class="row">
+            <div class="col-md-2 col-sm-12"></div>
+            <div class="col-md-4 col-sm-12">
+                <div class="student">
+                    <!-- <b>Buddy Head</b><br> -->
+                    <div class="imageHolder">
+                        <img src="images/team-2023/IMG-20221113-WA0007 - Aparna S Kaushik.jpg"
+                            class="student-img img-responsive">
+                    </div>
+                    <br>Aparna S Kaushik<br>9868920657<br>co22btech11003@iith.ac.in
+                </div>
+            </div>
+            <div class="col-md-4 col-sm-12">
+                <div class="student ">
+                    <!-- <b>Buddy Head</b><br> -->
+                    <div class="imageHolder">
+                        <img src="images/team-2023/Snapchat-1546446865 - Namburi Pravalika.jpg"
+                            class="student-img img-responsive">
+                    </div>
+                    <br>Pravalika Namburi<br>9182078029<br>ic22btech11006@iith.ac.in
+                </div>
+            </div>
+        </div>
+    </div>
                 </div>
             </div>
             <div class="container">
                 <div class="row">
                     <div class=" col-md-12 student-header">
+                    <center>
                         <h1 class="sm-center"><b>Photography Team</b></h1>
+                        <center>
                     </div>
                 </div>
                 <div class="row faculty-row">
@@ -501,36 +497,40 @@ include_once('header.php');
                             </div>
                         </div>
                 </div>
-                <div class="col-md-2 col-sm-12"></div>
-                <div class="col-md-4 col-sm-12">
-                    <div class="student management-team">
-                        <!-- <b>Buddy Head</b><br> -->
-                        <div class="imageHolder">
-                            <img src="images/team-2023/IMG_20230727_003643 - Bhukya Sai Teja.jpg"
-                                class="student-img img-responsive">
+                <div class="row">
+                    <div class="col-md-2 col-sm-12"></div>
+                    <div class="col-md-4 col-sm-12">
+                        <div class="student management-team">
+                            <!-- <b>Buddy Head</b><br> -->
+                            <div class="imageHolder">
+                                <img src="images/team-2023/IMG_20230727_003643 - Bhukya Sai Teja.jpg"
+                                    class="student-img img-responsive">
+                            </div>
+                            <br>Sai Teja<br>9502426191<br>me22btech11015@iith.ac.in
                         </div>
-                        <br>Sai Teja<br>9502426191<br>me22btech11015@iith.ac.in
                     </div>
-                </div>
-                <div class="col-md-4 col-sm-12">
-                    <div class="student management-team">
-                        <div class="imageHolder">
-                            <img src="images/team-2023/IMG_4721 - Erraram Saikumar.jpg"
-                                class="student-img img-responsive">
+                    <div class="col-md-4 col-sm-12">
+                        <div class="student management-team">
+                            <div class="imageHolder">
+                                <img src="images/team-2023/IMG_4721 - Erraram Saikumar.jpg"
+                                    class="student-img img-responsive">
+                            </div>
+                            <br>E.Saikumar <br> 7382678737 <br>ms22btech11012@iith.ac.in 
                         </div>
-                        <br>E.Saikumar <br> 7382678737 <br>ms22btech11012@iith.ac.in 
                     </div>
-                </div>
+</div>
             </div>
             </center>
         </div>
-    </div>
+    
     <!-- Design TEAM -->
     <div class="container">
         <!-- HEADING -->
         <div class="row">
             <div class=" col-md-12 student-header">
+            <center>
                 <h1 class="sm-center"><b>Design Team</b></h1>
+                <center>
             </div>
         </div>
         <!--FIRST ROW -->
@@ -579,7 +579,6 @@ include_once('header.php');
                 </div>
         </div>
                     <!-- <div class=" col-md-4 col-sm-12  "></div> -->
-                    <div class="row faculty-row">
                         <!-- <center>
                             <div class=" col-md-2 col-sm-12"></div>
                             <div class=" col-md-4 col-sm-12">
@@ -604,7 +603,9 @@ include_once('header.php');
                         </center> -->
                         <div class="row">
                             <div class=" col-md-12 student-header">
+                            <center>
                                 <h1 class="sm-center"><b> Newsletter Team</b></h1>
+</center>
                             </div>
                         </div>
                         <!--FIRST ROW -->
@@ -642,7 +643,9 @@ include_once('header.php');
                         </div>
                         <div class="row">
                             <div class=" col-md-12 student-header">
+                            <center>
                                 <h1 class="sm-center"><b>Logistics Team</b></h1>
+</center>
                             </div>
                         </div>
                         <!--FIRST ROW -->
@@ -686,7 +689,9 @@ include_once('header.php');
         <div class="container">
                         <div class="row">
                             <div class=" col-md-12 student-header">
+                            <center>
                                 <h1 class="sm-center"><b>Video Editorial Team</b></h1>
+                            </center>
                             </div>
                             <center>
                                 <div class="col-md-2 col-sm-12"></div>
@@ -711,27 +716,29 @@ include_once('header.php');
                                     </div>
                                 </div>
                         </div>
-                        <div class="col-md-2 col-sm-12"></div>
-                        <div class="col-md-4 col-sm-12">
-                            <div class="student management-team">
-                                <!-- <b>Buddy Head</b><br> -->
-                                <div class="imageHolder">
-                                    <img src="images/team-2023/IMG_4690 - Eslavath Naveen Naik.JPG"
-                                        class="student-img img-responsive">
+                        <div class="row">
+                            <div class="col-md-2 col-sm-12"></div>
+                            <div class="col-md-4 col-sm-12">
+                                <div class="student management-team">
+                                    <!-- <b>Buddy Head</b><br> -->
+                                    <div class="imageHolder">
+                                        <img src="images/team-2023/IMG_4690 - Eslavath Naveen Naik.JPG"
+                                            class="student-img img-responsive">
+                                    </div>
+                                    <br>Naveen<br>9618388082<br>cs22btech11021@iith.ac.in
                                 </div>
-                                <br>Naveen<br>9618388082<br>cs22btech11021@iith.ac.in
                             </div>
-                        </div>
-                        <div class="col-md-4 col-sm-12">
-                            <div class="student management-team">
-                                <!-- <b>Buddy Head</b><br> -->
-                                <div class="imageHolder">
-                                    <img src="images/team-2023/IMG_20230726_170737 - M Prince Akshay S.jpg"
-                                        class="student-img img-responsive">
+                            <div class="col-md-4 col-sm-12">
+                                <div class="student management-team">
+                                    <!-- <b>Buddy Head</b><br> -->
+                                    <div class="imageHolder">
+                                        <img src="images/team-2023/IMG_20230726_170737 - M Prince Akshay S.jpg"
+                                            class="student-img img-responsive">
+                                    </div>
+                                    <br>M Prince Akshay S<br>9392864275<br>ma22btech11012@iith.ac.in
                                 </div>
-                                <br>M Prince Akshay S<br>9392864275<br>ma22btech11012@iith.ac.in
                             </div>
-                        </div>
+</div>
                     </div>
 
 
@@ -759,6 +766,7 @@ include_once('header.php');
 
         <!-- Undergraduate Sunshiners -->
         <div class="container">
+        <center>
             <!-- HEADING -->
             <div class="row">
                 <div class=" col-md-12 col-sm-12 student-header">
@@ -832,6 +840,7 @@ include_once('header.php');
 
                <!-- Civil -->
                <div class="container">
+               <center>
                 <div class="row">
                     <div class=" col-md-12 student-header">
                         <h1 class="sm-center"><b>Civil Engineering</b></h1>
@@ -888,6 +897,7 @@ include_once('header.php');
 
             <!-- CSE -->
             <div class="row">
+            <center>
                                         <div class=" col-md-12 col-sm-12 student-header">
                                             <h2 class="branch sm-center"><b>Computer Science Engineering</b></h2>
                                         </div>
@@ -969,6 +979,7 @@ include_once('header.php');
 
                   <!-- design -->
                   <div class="row">
+                  <center>
                 <div class=" col-md-12 col-sm-12 student-header">
                     <h2 class="branch sm-center"><b>Design</b></h2>
                 </div>
@@ -989,6 +1000,7 @@ include_once('header.php');
 
             <!-- EE -->
             <div class="container">
+            <center>
                 <div class="row">
                     <div class=" col-md-12 student-header">
                         <h1 class="sm-center"><b>Electrical Engineering</b></h1>
@@ -1044,6 +1056,7 @@ include_once('header.php');
 
             <!-- EP -->
             <div class="row">
+            <center>
                                 <div class=" col-md-12 col-sm-12 student-header">
                                     <h2 class="branch sm-center"><b>Engineering Physics</b></h2>
                                 </div>
@@ -1074,6 +1087,7 @@ include_once('header.php');
                             <!-- ES -->
                             <div class="container">
                 <div class="row">
+                <center>
                     <div class=" col-md-12 student-header">
                         <h1 class="sm-center"><b>Engineering Science</b></h1>
                     </div>
@@ -1124,6 +1138,7 @@ include_once('header.php');
 
             <!-- MnC -->
             <div class="row">
+            <center>
                 <div class=" col-md-12 col-sm-12 student-header">
                     <h2 class="branch sm-center"><b>Mathematics and Computing</b></h2>
                 </div>
@@ -1145,6 +1160,7 @@ include_once('header.php');
 
             <!-- Mech -->
             <div class="row" style="margin-bottom: 15px;">
+            <center>
                 <div class=" col-md-12 col-sm-12 student-header">
                     <h1 class="sm-center"><b>Mechanical Engineering</b></h1>
                 </div>
@@ -1206,6 +1222,7 @@ include_once('header.php');
 
    <!-- UG BUDDIES -->
                     <div class="container">
+                    <center>
                         <!-- HEADING -->
                         <div class="row">
                             <div class=" col-md-12 col-sm-12 student-header">
