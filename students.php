@@ -497,7 +497,7 @@ include_once('header.php');
                             </div>
                         </div>
                 </div>
-                <div class="row">
+                <div class="row faculty-row">
                     <div class="col-md-2 col-sm-12"></div>
                     <div class="col-md-4 col-sm-12">
                         <div class="student management-team">
@@ -717,6 +717,7 @@ include_once('header.php');
                                 </div>
                         </div>
                         <div class="row">
+                            <center>
                             <div class="col-md-2 col-sm-12"></div>
                             <div class="col-md-4 col-sm-12">
                                 <div class="student management-team">
