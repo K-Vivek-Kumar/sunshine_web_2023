@@ -78,7 +78,7 @@ include_once('header.php');
                <div class="col-md-4 col-sm-12 ">
                   <div class="student">
                      <div class="imageHolder">
-                        <img src="images/team-2023/download - GANTA BHANU GANESH.png"
+                        <img src="images/team-2023/WhatsApp Image 2023-09-23 at 22.40.17.jpeg"
                            class="student-img img-responsive">
                      </div>
                      <br>G Bhanu Ganesh<br>9030435668<br> ee21resch11010@iith.ac.in
