@@ -110,11 +110,11 @@ include_once('header.php');
 							Artificial Intelligence
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/ai19.jpeg" />
+							<img src="./images/faculty_rep/Ganesh-Ghalme.jpg" />
 						</div>
 						<div class="details">
-							Dr Shantanu Desai<br>
-							shantanud@phy.iith.ac.in<br>
+							Dr. Ganesh Sambhaji Ghalme<br>
+							ganeshghalme@ai.iith.ac.in<br>
 						</div>
 					</div>
 				</div>
@@ -124,12 +124,12 @@ include_once('header.php');
 							Biomedical Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/bme19.jpg" />
+							<img src="./images/faculty_rep/Harikrishnan_Narayanan_Unni.jpg" />
 						</div>
 						<div class="details">
-							Dr Kousik Sarathy
+							Dr. Harikrishnan Unni
 							<br>
-							kousiksarathy@bme.iith.ac.in
+							harikrishnan@bme.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -140,12 +140,12 @@ include_once('header.php');
 							Biotechnology
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/biotech19.jpg" />
+							<img src="./images/faculty_rep/himanshu-joshi.jpg" />
 						</div>
 						<div class="details">
-							Dr. Ashish Misra
+							Dr. Himanshu Joshi
 							<br>
-							ashishmisra@bt.iith.ac.in
+							hjoshi@bt.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -156,12 +156,12 @@ include_once('header.php');
 							Chemical Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="images/faculty/WhatsApp Image 2022-09-08 at 10.39.10 AM.jpeg" />
+							<img src="images/faculty_rep/jphanindra.jpg" />
 						</div>
 						<div class="details">
-							Dr. Santhosh Kumar Devarai
+							Dr. Phanindra Jarmpana
 							<br>
-							devarai@che.iith.ac.in
+							pjampana@che.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -175,11 +175,11 @@ include_once('header.php');
 							Climate Change
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/satish_regonda.jpg" />
+							<img src="./images/faculty_rep/Ambika_S.jpg" />
 						</div>
 						<div class="details">
-							Dr. Satish Regonda<br>
-							satishr@ce.iith.ac.in<br>
+							Dr. Ambika S<br>
+							ambika@ce.iith.ac.in<br>
 						</div>
 					</div>
 				</div>
@@ -204,12 +204,12 @@ include_once('header.php');
 							Civil Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/ce19.jpg" />
+							<img src="./images/faculty_rep/meenakshi_.jpg" />
 						</div>
 						<div class="details">
-							Dr. Digvijay Pawer
+							Dr. Meenakshi
 							<br>
-							dspawar@ce.iith.ac.in
+							meenakshi@ce.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -220,12 +220,12 @@ include_once('header.php');
 							Computer Science and Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="images/faculty/Rogers-Mathew - Rogers Mathew.jpeg" />
+							<img src="images/faculty_rep/Shirshendu_Das.jpg" />
 						</div>
 						<div class="details">
-							Dr Rogers Mathew
+							Dr. Shirshendu Das
 							<br>
-							rogers@cse.iith.ac.in
+							shirshendu@cse.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -238,12 +238,12 @@ include_once('header.php');
 							Design
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/des19-comp.jpg" />
+							<img src="./images/faculty_rep/shahid.png" />
 						</div>
 						<div class="details">
-							Dr. Neel. K.
+							Dr. Mohammad Shahid
 							<br>
-							neel@des.iith.ac.in
+							mohammad.shahid@des.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -254,11 +254,11 @@ include_once('header.php');
 							Electrical Engineering
 						</div>
 						<div class="faculty-image">
-							<img src="images/faculty/IMG_0108 - K Nayak.jpeg" />
+							<img src="images/faculty_rep/Shubhadeep-Bhattacharjee.jpg" />
 						</div>
 						<div class="details">
-							Dr. Kaushik Nayak<br>
-							knayak@iith.ac.in<br>
+						Dr. Shubhadeep Bhattacharjee<br>
+						shubhadeep@ee.iith.ac.in<br>
 						</div>
 					</div>
 				</div>
@@ -268,12 +268,12 @@ include_once('header.php');
 							Engineering Science
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/faculty19/ce19.jpg" />
+							<img src="./images/faculty_rep/Neeraj_Kumar.png" />
 						</div>
 						<div class="details">
-							Dr. Digvijay Pawer
+						Dr. Neeraj Kumar
 							<br>
-							dspawar@ce.iith.ac.in
+							neeraj.kumar@la.iith.ac.in
 							<br>
 						</div>
 					</div>
@@ -281,35 +281,36 @@ include_once('header.php');
 				<div class="col-md-3 col-sm-12">
 					<div class="faculty-rep">
 						<div class="faculty-dept">
-							Entrepreneurship and Management
+						Heritage Science & Technology
 						</div>
 						<div class="faculty-image">
-							<img src="./images/faculty/MPGanesh.jpg" />
+							<img src="./images/faculty_rep/Kausik_Sarathy_Sridharan.jpg" />
 						</div>
 						<div class="details">
-							Dr. MP Ganesh
+						Dr. Kousik Sarathy
 							<br>
-							mpganesh@la.iith.ac.in
+							kousiksarathy@bme.iith.ac.in
 							<br>
 						</div>
 					</div>
 				</div>
+				</div>
 				<div class="row faculty-row">
-					<div class="col-md-3 col-sm-12">
-						<div class="faculty-rep">
-							<div class="faculty-dept">
-								Liberal Arts
-							</div>
-							<div class="faculty-image">
-								<img src="images/faculty/IMG_20220905_173924 - Shuhita Bhattacharjee.jpeg" />
-							</div>
-							<div class="details">
-								Dr. Shuhita Bhattacharjee
-								<br>
-								shuhita@la.iith.ac.in
-								<br>
-							</div>
+				<div class="col-md-3 col-sm-12">
+					<div class="faculty-rep">
+						<div class="faculty-dept">
+							Entrepreneurship and Management
 						</div>
+						<div class="faculty-image">
+							<img src="./images/faculty_rep/Rajesh_Ittamalla.jpg" />
+						</div>
+						<div class="details">
+						Dr. Rajesh Ittamalla
+							<br>
+							rajeshittamalla@em.iith.ac.in
+							<br>
+						</div>
+					</div>
 					</div>
 					<div class="col-md-3 col-sm-12">
 						<div class="faculty-rep">
@@ -317,12 +318,12 @@ include_once('header.php');
 								Liberal Arts
 							</div>
 							<div class="faculty-image">
-								<img src="images/faculty/2012-12-12 20.49.38 - Mahati Chittem.jpg" />
-							</div>
+							<img src="./images/faculty_rep/Neeraj_Kumar.png" />					
+								</div>
 							<div class="details">
-								Dr. Mahati Chittem
+							Dr. Neeraj Kumar
 								<br>
-								mahati@la.iith.ac.in
+								neeraj.kumar@la.iith.ac.in
 								<br>
 							</div>
 						</div>
@@ -333,12 +334,12 @@ include_once('header.php');
 								Mechanical and Aerospace Engineering
 							</div>
 							<div class="faculty-image">
-								<img src="./images/faculty/badari11.jpg" />
+								<img src="./images/faculty_rep/palathingal.png" />
 							</div>
 							<div class="details">
-								Dr .Karri Badarinath
+							Dr. Safvan Palathingal
 								<br>
-								badarinath@mae.iith.ac.in
+								safvan@mae.iith.ac.in
 								<br>
 							</div>
 						</div>
@@ -349,51 +350,67 @@ include_once('header.php');
 								Materials Science and Metallurgical Engineering
 							</div>
 							<div class="faculty-image">
-								<img src="./images/faculty/suresh-g.png" />
+								<img src="./images/faculty_rep/SURESH_PERUMAL.jpg" />
 							</div>
 							<div class="details">
-								Dr. Suresh Kumar Garlapati
+							Dr. Suresh Perumal
 								<br>
-								gsuresh@msme.iith.ac.in
+								suresh@msme.iith.ac.in
 								<br>
 							</div>
 						</div>
 					</div>
+				</div>
 					<div class="row faculty-row">
-						<div class="col-md-3 col-sm-12"></div>
-						<div class="col-md-3 col-sm-12">
+						<div class="col-md-4 col-sm-12">
 							<div class="faculty-rep">
 								<div class="faculty-dept">
 									Mathematics
 								</div>
 								<div class="faculty-image">
-									<img src="./images/faculty/sukunew.jpg" />
+									<img src="./images/faculty_rep/Pradipto_Banerjee.jpg" />
 								</div>
 								<div class="details">
-									Dr. D. Sukumar
+									Dr. Pradipto Banerjee
 									<br>
-									suku@math.iith.ac.in
+									pradipto@math.iith.ac.in
 									<br>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-3 col-sm-12">
+						<div class="col-md-4 col-sm-12">
 							<div class="faculty-rep">
 								<div class="faculty-dept">
 									Physics
 								</div>
 								<div class="faculty-image">
-									<img src="images/faculty/pic_independence_day_2022 - Arabinda Haldar.jpeg" />
+									<img src="images/faculty_rep/saurabh-s.jpg" />
 								</div>
 								<div class="details">
-									Dr. Arabinda Haldar
+									Dr. Saurabh Sandilya
 									<br>
-									arabinda@phy.iith.ac.in
+									saurabh@phy.iith.ac.in
 									<br>
 								</div>
 							</div>
 						</div>
-						<div class="col-md-3 col-sm-12"></div>
+						<div class="col-md-4 col-sm-12">
+							<div class="faculty-rep">
+								<div class="faculty-dept">
+								Center for Interdisciplinary Programs (CIP)
+								</div>
+								<div class="faculty-image">
+									<img src="images/faculty_rep/Renu_John.jpg" />
+								</div>
+								<div class="details">
+								Dr. Renu John
+									<br>
+									renujohn@bme.iith.ac.in
+									<br>
+								</div>
+							</div>
+						</div>
+						
 					</div>
 					<div class="row faculty-row">
 						<div class="col-md-12 col-sm-12">
