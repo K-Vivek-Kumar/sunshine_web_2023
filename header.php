@@ -41,7 +41,7 @@
                 <li><a href="./about.php" class="<?php echo $a0; ?>">About Us</a></li>
                 <li><a href="./team.php" class="<?php echo $a1 ?>">Team</a></li>
                 <li><a href="./students.php" class="<?php echo $a2 ?>">UG Team</a></li>
-                <li><a href="./pgstudents.php" class="<?php echo $a3 ?>">PG Team</a></li>
+                <li><a href="./pgstudents.php" class="<?php echo $a3 ?>">PG/PhD Team</a></li>
                 <li><a href="./newsletter.php" class="<?php echo $a4 ?>">Newsletter</a></li>
                 <li><a href="./events.php" class="<?php echo $a5 ?>">Events</a></li>
                 <li><a href="./faq.php" class="<?php echo $a6; ?>">FAQ's</a></li>
